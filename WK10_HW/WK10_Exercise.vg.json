@@ -1,10 +1,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 600,
-  "height": 400,
+  "height": 200,
   "title": "Exercise data",
   "data": {
-      "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-2024/refs/heads/Week10/gym_members_exercise_tracking.csv",
+      "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-2024/refs/heads/Week10/WK10_HW/gym_members_exercise_tracking.csv",
       "format":{
           "type": "csv"
       }
@@ -83,8 +83,7 @@
           },
           "value": 0.1
         }
-      }    
-
+      }   
     },
     {
       "mark":{
