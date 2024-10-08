@@ -7,7 +7,7 @@
   "layer":[
     {
     "data": {
-      "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-2024/refs/heads/Week10/WK10_HW/ne_50m_admin_0_countries.topojson",
+      "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-2024/refs/heads/main/ne_50m_admin_0_countries.topojson",
       "format":{
         "type": "topojson",
         "feature": "ne_50m_admin_0_countries"
@@ -21,7 +21,7 @@
   },
   {
     "data": {
-      "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-2024/refs/heads/Week10/WK10_HW/ne_50m_admin_0_countries.topojson",
+      "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-2024/refs/heads/main/ne_50m_admin_0_countries.topojson",
       "format":{
         "type": "topojson",
         "feature": "ne_50m_admin_0_countries"
@@ -32,7 +32,7 @@
         "lookup": "properties.NAME",
         "from": {
           "data":{
-            "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-2024/refs/heads/Week10/WK10_HW/IHME-GBD_2021_DATA-ac02c9a8-1.csv"
+            "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-2024/refs/heads/main/IHME-GBD_2021_DATA-ac02c9a8-1.csv"
           },
           "key": "location_name",
           "fields": ["val","upper","lower"]
@@ -63,7 +63,7 @@
   },
     {
     "data": {
-      "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-2024/refs/heads/Week10/WK10_HW/ne_50m.topojson",
+      "url": "https://raw.githubusercontent.com/Joshuatanmy/FIT3179-2024/refs/heads/main/ne_50m.topojson",
       "format":{
         "type": "topojson",
         "feature": "ne_50m_graticules_30"
