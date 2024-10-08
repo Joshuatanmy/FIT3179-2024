@@ -1,0 +1,979 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,22,Fiji,3,Both,22,All ages,294,All causes,1,Number,2021,9448.30416950498,11937.404270955656,7219.279431415872
+1,Deaths,22,Fiji,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,22,Fiji,3,Both,22,All ages,294,All causes,3,Rate,2021,1022.0194754795324,1291.264488601708,780.9067156886836
+1,Deaths,23,Kiribati,3,Both,22,All ages,294,All causes,1,Number,2021,979.9046439274824,1188.3671565264951,816.3527767145235
+1,Deaths,23,Kiribati,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,23,Kiribati,3,Both,22,All ages,294,All causes,3,Rate,2021,808.7626083397506,980.81678368777,673.7753567273613
+1,Deaths,56,Eastern Europe,3,Both,22,All ages,294,All causes,1,Number,2021,3471713.8691748767,3613801.412838285,3329811.272938906
+1,Deaths,56,Eastern Europe,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,56,Eastern Europe,3,Both,22,All ages,294,All causes,3,Rate,2021,1679.1096340384431,1747.8308974929041,1610.4778212181293
+1,Deaths,186,Seychelles,3,Both,22,All ages,294,All causes,1,Number,2021,861.2282717643809,931.1895790840925,802.6089497628774
+1,Deaths,186,Seychelles,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,186,Seychelles,3,Both,22,All ages,294,All causes,3,Rate,2021,816.860526164169,883.2176491035178,761.2610854776283
+1,Deaths,88,Malta,3,Both,22,All ages,294,All causes,1,Number,2021,4035.3205067574227,4271.599975123949,3812.2755688244497
+1,Deaths,88,Malta,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,88,Malta,3,Both,22,All ages,294,All causes,3,Rate,2021,912.5160854040342,965.9464920282708,862.0784328579841
+1,Deaths,367,Monaco,3,Both,22,All ages,294,All causes,1,Number,2021,590.6157000164873,662.754958227744,524.0418269890935
+1,Deaths,367,Monaco,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,367,Monaco,3,Both,22,All ages,294,All causes,3,Rate,2021,1559.8570512746992,1750.381838528769,1384.030832517649
+1,Deaths,24,Marshall Islands,3,Both,22,All ages,294,All causes,1,Number,2021,442.6408096792374,554.1332453031424,357.0535908990705
+1,Deaths,24,Marshall Islands,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,24,Marshall Islands,3,Both,22,All ages,294,All causes,3,Rate,2021,786.5939551416539,984.7213622583523,634.5013611970256
+1,Deaths,89,Netherlands,3,Both,22,All ages,294,All causes,1,Number,2021,169764.29857501425,171714.73640166267,168026.7479387877
+1,Deaths,89,Netherlands,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,89,Netherlands,3,Both,22,All ages,294,All causes,3,Rate,2021,986.390300194663,997.7230301590182,976.2945197033747
+1,Deaths,154,Tunisia,3,Both,22,All ages,294,All causes,1,Number,2021,103439.20719243116,124510.5666249287,84754.85036841917
+1,Deaths,154,Tunisia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,154,Tunisia,3,Both,22,All ages,294,All causes,3,Rate,2021,873.4517760915579,1051.3805984455396,715.6790601551222
+1,Deaths,8,Taiwan (Province of China),3,Both,22,All ages,294,All causes,1,Number,2021,184094.58341633825,186096.81163507685,182518.68518108272
+1,Deaths,8,Taiwan (Province of China),3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,8,Taiwan (Province of China),3,Both,22,All ages,294,All causes,3,Rate,2021,778.8509650467352,787.3218138434196,772.1837951682581
+1,Deaths,42,Central Europe,3,Both,22,All ages,294,All causes,1,Number,2021,1765261.106993342,1783223.9006320632,1747348.6088460195
+1,Deaths,42,Central Europe,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,42,Central Europe,3,Both,22,All ages,294,All causes,3,Rate,2021,1531.4963018809296,1547.080371523755,1515.9558673461233
+1,Deaths,9,Southeast Asia,3,Both,22,All ages,294,All causes,1,Number,2021,5513570.838758626,6163126.594693631,4863041.3069568
+1,Deaths,9,Southeast Asia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,9,Southeast Asia,3,Both,22,All ages,294,All causes,3,Rate,2021,789.5651670342771,882.5841222506698,696.4067632595131
+1,Deaths,74,Andorra,3,Both,22,All ages,294,All causes,1,Number,2021,633.0074765805632,775.4172850055869,495.7814643480887
+1,Deaths,74,Andorra,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,74,Andorra,3,Both,22,All ages,294,All causes,3,Rate,2021,739.5523125784912,905.9318689835915,579.2290645172421
+1,Deaths,107,Barbados,3,Both,22,All ages,294,All causes,1,Number,2021,3294.765964179703,3880.917585914911,2776.48361350278
+1,Deaths,107,Barbados,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,107,Barbados,3,Both,22,All ages,294,All causes,3,Rate,2021,1101.8370392884606,1297.8581146814881,928.5128344757819
+1,Deaths,192,Southern Sub-Saharan Africa,3,Both,22,All ages,294,All causes,1,Number,2021,1036463.7771741259,1087081.5408158796,987049.7605143292
+1,Deaths,192,Southern Sub-Saharan Africa,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,192,Southern Sub-Saharan Africa,3,Both,22,All ages,294,All causes,3,Rate,2021,1290.6781711291558,1353.7109987518522,1229.1443345830298
+1,Deaths,27,Samoa,3,Both,22,All ages,294,All causes,1,Number,2021,1350.0033256373495,1582.5500898114756,1160.2196672516284
+1,Deaths,27,Samoa,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,27,Samoa,3,Both,22,All ages,294,All causes,3,Rate,2021,631.9061229184556,740.7560208082481,543.0726708177485
+1,Deaths,376,Northern Mariana Islands,3,Both,22,All ages,294,All causes,1,Number,2021,394.3637332904476,441.8163413233366,318.914030715002
+1,Deaths,376,Northern Mariana Islands,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,376,Northern Mariana Islands,3,Both,22,All ages,294,All causes,3,Rate,2021,813.2525340407785,911.1087780914164,657.66099092362
+1,Deaths,125,Colombia,3,Both,22,All ages,294,All causes,1,Number,2021,355330.1198290047,396825.4078251256,314764.1961899774
+1,Deaths,125,Colombia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,125,Colombia,3,Both,22,All ages,294,All causes,3,Rate,2021,724.2703561132279,808.8503152465389,641.5847228935085
+1,Deaths,140,Bahrain,3,Both,22,All ages,294,All causes,1,Number,2021,6292.695390221146,6962.900189361742,5632.3249870608215
+1,Deaths,140,Bahrain,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,140,Bahrain,3,Both,22,All ages,294,All causes,3,Rate,2021,411.39574218174903,455.2115291630612,368.22289568655964
+1,Deaths,105,Antigua and Barbuda,3,Both,22,All ages,294,All causes,1,Number,2021,720.4925854416639,721.564317385935,719.5382500983513
+1,Deaths,105,Antigua and Barbuda,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,105,Antigua and Barbuda,3,Both,22,All ages,294,All causes,3,Rate,2021,805.959187228525,807.158050650836,804.8916462805947
+1,Deaths,10,Cambodia,3,Both,22,All ages,294,All causes,1,Number,2021,129163.07501021546,156951.36914754033,102660.33310124965
+1,Deaths,10,Cambodia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,10,Cambodia,3,Both,22,All ages,294,All causes,3,Rate,2021,757.8179330581056,920.8557643012275,602.3226176033097
+1,Deaths,75,Austria,3,Both,22,All ages,294,All causes,1,Number,2021,88943.55030503763,90095.4889999081,87816.4959711555
+1,Deaths,75,Austria,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,75,Austria,3,Both,22,All ages,294,All causes,3,Rate,2021,990.2078114945389,1003.0323354775779,977.6603248970127
+1,Deaths,137,North Africa and Middle East,3,Both,22,All ages,294,All causes,1,Number,2021,4049748.7982909717,4384030.312974697,3735480.927964221
+1,Deaths,137,North Africa and Middle East,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,137,North Africa and Middle East,3,Both,22,All ages,294,All causes,3,Rate,2021,650.0398688312164,703.6966072564272,599.5955930550804
+1,Deaths,7,Democratic People's Republic of Korea,3,Both,22,All ages,294,All causes,1,Number,2021,242419.35622803227,287121.24020893185,203027.59640040752
+1,Deaths,7,Democratic People's Republic of Korea,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,7,Democratic People's Republic of Korea,3,Both,22,All ages,294,All causes,3,Rate,2021,918.5242727187931,1087.8992191405328,769.269328271422
+1,Deaths,25,Micronesia (Federated States of),3,Both,22,All ages,294,All causes,1,Number,2021,814.0030718713809,1021.2302295557221,657.9703986524306
+1,Deaths,25,Micronesia (Federated States of),3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,25,Micronesia (Federated States of),3,Both,22,All ages,294,All causes,3,Rate,2021,793.5472591793394,995.5668199039426,641.4356708401646
+1,Deaths,155,Türkiye,3,Both,22,All ages,294,All causes,1,Number,2021,654482.2716820807,743817.1004161848,569367.9382210689
+1,Deaths,155,Türkiye,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,155,Türkiye,3,Both,22,All ages,294,All causes,3,Rate,2021,782.7607533875671,889.6052026099062,680.9640162310488
+1,Deaths,126,Costa Rica,3,Both,22,All ages,294,All causes,1,Number,2021,30742.485834383893,31542.121328339097,29934.84141597953
+1,Deaths,126,Costa Rica,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,126,Costa Rica,3,Both,22,All ages,294,All causes,3,Rate,2021,647.4970704424729,664.3389628823713,630.4864943396396
+1,Deaths,93,Sweden,3,Both,22,All ages,294,All causes,1,Number,2021,91984.81307529694,98445.19997041933,86054.45456662885
+1,Deaths,93,Sweden,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,93,Sweden,3,Both,22,All ages,294,All causes,3,Rate,2021,886.7276793711288,949.005393352699,829.5594049308094
+1,Deaths,90,Norway,3,Both,22,All ages,294,All causes,1,Number,2021,41915.413334919285,42567.34122648328,41320.924721648844
+1,Deaths,90,Norway,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,90,Norway,3,Both,22,All ages,294,All causes,3,Rate,2021,773.6225609966788,785.655035089847,762.650229653866
+1,Deaths,11,Indonesia,3,Both,22,All ages,294,All causes,1,Number,2021,2198968.9545826735,2654588.191781824,1797914.9619599322
+1,Deaths,11,Indonesia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,11,Indonesia,3,Both,22,All ages,294,All causes,3,Rate,2021,788.4034211881985,951.7580536482734,644.6122415965051
+1,Deaths,174,Eastern Sub-Saharan Africa,3,Both,22,All ages,294,All causes,1,Number,2021,3334073.8503560056,3694317.5225705327,3039397.5289880126
+1,Deaths,174,Eastern Sub-Saharan Africa,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,174,Eastern Sub-Saharan Africa,3,Both,22,All ages,294,All causes,3,Rate,2021,782.4668324303427,867.0116678936229,713.3098616726552
+1,Deaths,141,Egypt,3,Both,22,All ages,294,All causes,1,Number,2021,711522.5773973861,826023.7087506498,616554.4599059573
+1,Deaths,141,Egypt,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,141,Egypt,3,Both,22,All ages,294,All causes,3,Rate,2021,673.6152488459422,782.0161774177336,583.7066863792156
+1,Deaths,111,Dominican Republic,3,Both,22,All ages,294,All causes,1,Number,2021,73004.3925122142,82750.49178014115,64138.587124154124
+1,Deaths,111,Dominican Republic,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,111,Dominican Republic,3,Both,22,All ages,294,All causes,3,Rate,2021,662.8989219961308,751.3960449232907,582.3950970599911
+1,Deaths,79,Finland,3,Both,22,All ages,294,All causes,1,Number,2021,57154.55719066622,58173.4242287077,56130.81249602349
+1,Deaths,79,Finland,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,79,Finland,3,Both,22,All ages,294,All causes,3,Rate,2021,1032.4300545233234,1050.834692811887,1013.9373070879446
+1,Deaths,13,Malaysia,3,Both,22,All ages,294,All causes,1,Number,2021,224494.63199532076,239436.51754915484,214121.72531892834
+1,Deaths,13,Malaysia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,13,Malaysia,3,Both,22,All ages,294,All causes,3,Rate,2021,705.686659769925,752.6556639435723,673.0799920758791
+1,Deaths,64,High-income,3,Both,22,All ages,294,All causes,1,Number,2021,10883175.587425644,10929457.318654444,10836896.379596116
+1,Deaths,64,High-income,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,64,High-income,3,Both,22,All ages,294,All causes,3,Rate,2021,996.9326879092428,1001.17223824493,992.6933687247654
+1,Deaths,380,Palau,3,Both,22,All ages,294,All causes,1,Number,2021,195.1126567586494,234.98683958713906,160.7398079439193
+1,Deaths,380,Palau,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,380,Palau,3,Both,22,All ages,294,All causes,3,Rate,2021,1078.1583834483856,1298.4961371025133,888.2200384519
+1,Deaths,158,South Asia,3,Both,22,All ages,294,All causes,1,Number,2021,14814624.056851836,15596801.559329718,14040936.912804004
+1,Deaths,158,South Asia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,158,South Asia,3,Both,22,All ages,294,All causes,3,Rate,2021,802.2773430680804,844.6357104547538,760.3787661004425
+1,Deaths,108,Belize,3,Both,22,All ages,294,All causes,1,Number,2021,2343.751468184049,2585.8159748079347,2105.747347327351
+1,Deaths,108,Belize,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,108,Belize,3,Both,22,All ages,294,All causes,3,Rate,2021,546.2338940301204,602.649362928831,490.7647372122692
+1,Deaths,413,Tokelau,3,Both,22,All ages,294,All causes,1,Number,2021,14.248875912704401,16.515889519615744,12.136279556411838
+1,Deaths,413,Tokelau,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,413,Tokelau,3,Both,22,All ages,294,All causes,3,Rate,2021,1039.331120827593,1204.6899749180945,885.235657277085
+1,Deaths,112,Grenada,3,Both,22,All ages,294,All causes,1,Number,2021,1115.0279298212945,1409.831963449922,916.2515582851258
+1,Deaths,112,Grenada,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,112,Grenada,3,Both,22,All ages,294,All causes,3,Rate,2021,1086.4912055225136,1373.7503685655445,892.8020845923004
+1,Deaths,28,Solomon Islands,3,Both,22,All ages,294,All causes,1,Number,2021,4553.548210006497,5655.38967771731,3739.6556980907494
+1,Deaths,28,Solomon Islands,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,28,Solomon Islands,3,Both,22,All ages,294,All causes,3,Rate,2021,666.1477415366471,827.3383496944863,547.0817662440551
+1,Deaths,65,High-income Asia Pacific,3,Both,22,All ages,294,All causes,1,Number,2021,1794066.5587992824,1801840.3740556475,1785418.9972158854
+1,Deaths,65,High-income Asia Pacific,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,65,High-income Asia Pacific,3,Both,22,All ages,294,All causes,3,Rate,2021,967.4315234404545,971.6234715593939,962.7684168039488
+1,Deaths,73,Western Europe,3,Both,22,All ages,294,All causes,1,Number,2021,4543867.881920902,4564602.810387661,4524482.332367583
+1,Deaths,73,Western Europe,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,73,Western Europe,3,Both,22,All ages,294,All causes,3,Rate,2021,1038.8613275332361,1043.601939688574,1034.429222932649
+1,Deaths,144,Jordan,3,Both,22,All ages,294,All causes,1,Number,2021,45559.427727672184,51934.87280849785,39369.78522664657
+1,Deaths,144,Jordan,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,144,Jordan,3,Both,22,All ages,294,All causes,3,Rate,2021,369.6632632576135,421.3927943523656,319.44131009779835
+1,Deaths,138,North Africa and Middle East,3,Both,22,All ages,294,All causes,1,Number,2021,4049748.7982909717,4384030.312974697,3735480.927964221
+1,Deaths,138,North Africa and Middle East,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,138,North Africa and Middle East,3,Both,22,All ages,294,All causes,3,Rate,2021,650.0398688312164,703.6966072564272,599.5955930550804
+1,Deaths,369,Nauru,3,Both,22,All ages,294,All causes,1,Number,2021,93.5690740583062,115.76118208597465,76.00959731786936
+1,Deaths,369,Nauru,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,369,Nauru,3,Both,22,All ages,294,All causes,3,Rate,2021,848.7426125102213,1050.0418979212893,689.4648135902065
+1,Deaths,130,Mexico,3,Both,22,All ages,294,All causes,1,Number,2021,1114630.0473618503,1122611.1488943829,1108001.3394025192
+1,Deaths,130,Mexico,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,130,Mexico,3,Both,22,All ages,294,All causes,3,Rate,2021,862.2095824710495,868.3832741244461,857.0820197111315
+1,Deaths,106,Bahamas,3,Both,22,All ages,294,All causes,1,Number,2021,3846.447532457487,4443.023405355042,3339.9255815789347
+1,Deaths,106,Bahamas,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,106,Bahamas,3,Both,22,All ages,294,All causes,3,Rate,2021,991.4400591709298,1145.210314382914,860.8816286417693
+1,Deaths,156,United Arab Emirates,3,Both,22,All ages,294,All causes,1,Number,2021,20062.97624032589,23516.704016059677,16109.946604504421
+1,Deaths,156,United Arab Emirates,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,156,United Arab Emirates,3,Both,22,All ages,294,All causes,3,Rate,2021,208.3133848032215,244.1733546568427,167.26917611745964
+1,Deaths,142,Iran (Islamic Republic of),3,Both,22,All ages,294,All causes,1,Number,2021,569286.5060461597,581087.3321108258,557299.0270603228
+1,Deaths,142,Iran (Islamic Republic of),3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,142,Iran (Islamic Republic of),3,Both,22,All ages,294,All causes,3,Rate,2021,666.9564102347526,680.7818505118433,652.9122938412584
+1,Deaths,76,Belgium,3,Both,22,All ages,294,All causes,1,Number,2021,111169.90519614019,112440.93374270762,109871.21324124407
+1,Deaths,76,Belgium,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,76,Belgium,3,Both,22,All ages,294,All causes,3,Rate,2021,969.2847881348306,980.3668218318057,957.9615585779401
+1,Deaths,109,Cuba,3,Both,22,All ages,294,All causes,1,Number,2021,164946.18949924118,178455.3494119611,151205.3210100258
+1,Deaths,109,Cuba,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,109,Cuba,3,Both,22,All ages,294,All causes,3,Rate,2021,1463.6475564340988,1583.52088576506,1341.7181644997963
+1,Deaths,15,Myanmar,3,Both,22,All ages,294,All causes,1,Number,2021,510841.3078292019,613008.1833732727,421358.18986978225
+1,Deaths,15,Myanmar,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,15,Myanmar,3,Both,22,All ages,294,All causes,3,Rate,2021,905.4312257408072,1086.5150142603238,746.828528708727
+1,Deaths,29,Tonga,3,Both,22,All ages,294,All causes,1,Number,2021,666.630936251514,797.5584791060103,552.8805273191766
+1,Deaths,29,Tonga,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,29,Tonga,3,Both,22,All ages,294,All causes,3,Rate,2021,627.1251087251983,750.2936343406527,520.1157671390564
+1,Deaths,95,United Kingdom,3,Both,22,All ages,294,All causes,1,Number,2021,686205.009546058,689944.7272235976,682663.839374307
+1,Deaths,95,United Kingdom,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,95,United Kingdom,3,Both,22,All ages,294,All causes,3,Rate,2021,1011.3799436183906,1016.8918174771368,1006.1607038302417
+1,Deaths,83,Iceland,3,Both,22,All ages,294,All causes,1,Number,2021,2286.3271740337655,2430.5791106795655,2160.6214216384815
+1,Deaths,83,Iceland,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,83,Iceland,3,Both,22,All ages,294,All causes,3,Rate,2021,652.5168156417378,693.6862578017615,616.6404466809033
+1,Deaths,147,Libya,3,Both,22,All ages,294,All causes,1,Number,2021,46310.27164675338,55553.072685273735,39002.78455193074
+1,Deaths,147,Libya,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,147,Libya,3,Both,22,All ages,294,All causes,3,Rate,2021,674.0385469955437,808.5660278467578,567.6792489729794
+1,Deaths,32,Central Asia,3,Both,22,All ages,294,All causes,1,Number,2021,724677.240166984,779552.6194966751,670548.6267112176
+1,Deaths,32,Central Asia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,32,Central Asia,3,Both,22,All ages,294,All causes,3,Rate,2021,756.3784456107841,813.6543635216731,699.88196105263
+1,Deaths,139,Algeria,3,Both,22,All ages,294,All causes,1,Number,2021,273173.3414295296,306131.03313501965,242235.22080800714
+1,Deaths,139,Algeria,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,139,Algeria,3,Both,22,All ages,294,All causes,3,Rate,2021,618.0678903418151,692.6362610193872,548.068896868955
+1,Deaths,94,Switzerland,3,Both,22,All ages,294,All causes,1,Number,2021,69738.7503819557,70776.22688373533,68755.52335543584
+1,Deaths,94,Switzerland,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,94,Switzerland,3,Both,22,All ages,294,All causes,3,Rate,2021,781.5782003288755,793.2054378790658,770.5589491135435
+1,Deaths,91,Portugal,3,Both,22,All ages,294,All causes,1,Number,2021,123129.49182860208,124562.46131515298,121663.49323931755
+1,Deaths,91,Portugal,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,91,Portugal,3,Both,22,All ages,294,All causes,3,Rate,2021,1160.7395173961277,1174.2480951183356,1146.9195749131518
+1,Deaths,116,Saint Lucia,3,Both,22,All ages,294,All causes,1,Number,2021,1943.3180886449704,2482.535190596569,1557.0697103836958
+1,Deaths,116,Saint Lucia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,116,Saint Lucia,3,Both,22,All ages,294,All causes,3,Rate,2021,1094.7506329816488,1398.513700451294,877.161109650188
+1,Deaths,385,Puerto Rico,3,Both,22,All ages,294,All causes,1,Number,2021,34112.412024552,38957.4568877682,29299.515717476213
+1,Deaths,385,Puerto Rico,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,385,Puerto Rico,3,Both,22,All ages,294,All causes,3,Rate,2021,1035.483747824378,1182.555294970603,889.3880714953627
+1,Deaths,128,Guatemala,3,Both,22,All ages,294,All causes,1,Number,2021,112870.64918248529,124123.97343821358,102453.20361174672
+1,Deaths,128,Guatemala,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,128,Guatemala,3,Both,22,All ages,294,All causes,3,Rate,2021,715.8494878043609,787.2204461793362,649.7798485309465
+1,Deaths,14,Maldives,3,Both,22,All ages,294,All causes,1,Number,2021,1585.8835029168283,1855.9697790827793,1353.4304042427104
+1,Deaths,14,Maldives,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,14,Maldives,3,Both,22,All ages,294,All causes,3,Rate,2021,306.62410358954565,358.84418291372447,261.6802455593247
+1,Deaths,163,India,3,Both,22,All ages,294,All causes,1,Number,2021,11744496.419517092,12485808.279180521,11085398.700321307
+1,Deaths,163,India,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,163,India,3,Both,22,All ages,294,All causes,3,Rate,2021,830.2960865245309,882.7043221769259,783.7001119218147
+1,Deaths,124,Central Latin America,3,Both,22,All ages,294,All causes,1,Number,2021,2077479.0841673685,2200326.264392051,1970653.5585288862
+1,Deaths,124,Central Latin America,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,124,Central Latin America,3,Both,22,All ages,294,All causes,3,Rate,2021,821.1318323395304,869.6876666506467,778.908620430124
+1,Deaths,157,Yemen,3,Both,22,All ages,294,All causes,1,Number,2021,216518.8982941218,263104.91526726715,180066.97330098442
+1,Deaths,157,Yemen,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,157,Yemen,3,Both,22,All ages,294,All causes,3,Rate,2021,643.5688178182592,782.0385223405003,535.2211287257069
+1,Deaths,20,Viet Nam,3,Both,22,All ages,294,All causes,1,Number,2021,701470.8326382338,803790.9412213834,583763.424759985
+1,Deaths,20,Viet Nam,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,20,Viet Nam,3,Both,22,All ages,294,All causes,3,Rate,2021,699.5969324436749,801.6437043997552,582.2039666266802
+1,Deaths,393,Saint Kitts and Nevis,3,Both,22,All ages,294,All causes,1,Number,2021,541.9676713557836,610.2311082094183,473.28642404784034
+1,Deaths,393,Saint Kitts and Nevis,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,393,Saint Kitts and Nevis,3,Both,22,All ages,294,All causes,3,Rate,2021,924.1452576104072,1040.5458009835197,807.0322777390735
+1,Deaths,374,Niue,3,Both,22,All ages,294,All causes,1,Number,2021,21.490631111112233,24.11602845160908,18.701270062777546
+1,Deaths,374,Niue,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,374,Niue,3,Both,22,All ages,294,All causes,3,Rate,2021,1285.5766178800718,1442.6287498596719,1118.7161229963126
+1,Deaths,26,Papua New Guinea,3,Both,22,All ages,294,All causes,1,Number,2021,80732.23292805563,99349.87815607774,65176.76383790972
+1,Deaths,26,Papua New Guinea,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,26,Papua New Guinea,3,Both,22,All ages,294,All causes,3,Rate,2021,771.7027266735147,949.664949017943,623.0112130590121
+1,Deaths,44636,Low-middle SDI,3,Both,22,All ages,294,All causes,1,Number,2021,15768521.12796964,16597874.221892342,14951036.51452971
+1,Deaths,44636,Low-middle SDI,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,44636,Low-middle SDI,3,Both,22,All ages,294,All causes,3,Rate,2021,820.801622670884,863.9720861363137,778.2489513217748
+1,Deaths,18,Thailand,3,Both,22,All ages,294,All causes,1,Number,2021,625844.1969736522,761333.7965120245,497266.122023145
+1,Deaths,18,Thailand,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,18,Thailand,3,Both,22,All ages,294,All causes,3,Rate,2021,938.5328884838626,1141.7167572952633,745.7137289190196
+1,Deaths,151,Qatar,3,Both,22,All ages,294,All causes,1,Number,2021,5050.104404022657,6041.674576861935,4235.445992310058
+1,Deaths,151,Qatar,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,151,Qatar,3,Both,22,All ages,294,All causes,3,Rate,2021,169.63385323891669,202.94086151413657,142.26934066721128
+1,Deaths,77,Cyprus,3,Both,22,All ages,294,All causes,1,Number,2021,9226.534665801897,10076.365762131454,8419.595241806679
+1,Deaths,77,Cyprus,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,77,Cyprus,3,Both,22,All ages,294,All causes,3,Rate,2021,679.5329297921434,742.1228658444892,620.101959139133
+1,Deaths,92,Spain,3,Both,22,All ages,294,All causes,1,Number,2021,445506.4678097881,448734.5824997882,442112.1308409644
+1,Deaths,92,Spain,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,92,Spain,3,Both,22,All ages,294,All causes,3,Rate,2021,978.0747281414332,985.1618023501491,970.6227258746098
+1,Deaths,100,High-income North America,3,Both,22,All ages,294,All causes,1,Number,2021,3782505.3726396775,3817075.3349783886,3748315.113562962
+1,Deaths,100,High-income North America,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,100,High-income North America,3,Both,22,All ages,294,All causes,3,Rate,2021,1021.8167334347344,1031.1555611459712,1012.5804798400247
+1,Deaths,161,Bangladesh,3,Both,22,All ages,294,All causes,1,Number,2021,1095058.1447160128,1280516.7798530941,928800.0809666655
+1,Deaths,161,Bangladesh,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,161,Bangladesh,3,Both,22,All ages,294,All causes,3,Rate,2021,665.1384691457413,777.7860698783286,564.1532981400006
+1,Deaths,159,South Asia,3,Both,22,All ages,294,All causes,1,Number,2021,14814624.056851836,15596801.559329718,14040936.912804004
+1,Deaths,159,South Asia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,159,South Asia,3,Both,22,All ages,294,All causes,3,Rate,2021,802.2773430680804,844.6357104547538,760.3787661004425
+1,Deaths,522,Sudan,3,Both,22,All ages,294,All causes,1,Number,2021,245527.73164081815,299950.08796206285,202131.0966668051
+1,Deaths,522,Sudan,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,522,Sudan,3,Both,22,All ages,294,All causes,3,Rate,2021,565.4839416245904,690.8260704316781,465.5355568358284
+1,Deaths,145,Kuwait,3,Both,22,All ages,294,All causes,1,Number,2021,12064.718386597166,13927.556676660215,10358.087880383517
+1,Deaths,145,Kuwait,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,145,Kuwait,3,Both,22,All ages,294,All causes,3,Rate,2021,259.4517425812367,299.51207594474334,222.75065726860092
+1,Deaths,149,Palestine,3,Both,22,All ages,294,All causes,1,Number,2021,19476.864712515806,21466.983761678428,17588.27590833928
+1,Deaths,149,Palestine,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,149,Palestine,3,Both,22,All ages,294,All causes,3,Rate,2021,379.25285623594795,418.00438759301915,342.47831840291985
+1,Deaths,114,Haiti,3,Both,22,All ages,294,All causes,1,Number,2021,131403.72824823938,165651.6836076771,103267.66396777915
+1,Deaths,114,Haiti,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,114,Haiti,3,Both,22,All ages,294,All causes,3,Rate,2021,1021.4819642020985,1287.7123762066617,802.7630390295474
+1,Deaths,81,Germany,3,Both,22,All ages,294,All causes,1,Number,2021,1008231.4438906194,1013349.3949332726,1002595.2127590264
+1,Deaths,81,Germany,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,81,Germany,3,Both,22,All ages,294,All causes,3,Rate,2021,1180.9881983636315,1186.9830915181742,1174.3862197306535
+1,Deaths,102,United States of America,3,Both,22,All ages,294,All causes,1,Number,2021,3471247.940516131,3504978.031127561,3437912.173717209
+1,Deaths,102,United States of America,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,102,United States of America,3,Both,22,All ages,294,All causes,3,Rate,2021,1043.5342150472757,1053.674229310975,1033.5127432781512
+1,Deaths,416,Tuvalu,3,Both,22,All ages,294,All causes,1,Number,2021,108.76565336154361,126.65605035990353,94.82827667602551
+1,Deaths,416,Tuvalu,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,416,Tuvalu,3,Both,22,All ages,294,All causes,3,Rate,2021,879.4766502356022,1024.1380018407942,766.7793328232184
+1,Deaths,160,Afghanistan,3,Both,22,All ages,294,All causes,1,Number,2021,271853.66669433203,305879.25556237815,242915.50495801072
+1,Deaths,160,Afghanistan,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,160,Afghanistan,3,Both,22,All ages,294,All causes,3,Rate,2021,870.7064319338546,979.6852786714857,778.0218496049066
+1,Deaths,146,Lebanon,3,Both,22,All ages,294,All causes,1,Number,2021,49626.57056358122,54548.39962486123,45676.25844894132
+1,Deaths,146,Lebanon,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,146,Lebanon,3,Both,22,All ages,294,All causes,3,Rate,2021,895.7177170374092,984.5525778861927,824.4179171776311
+1,Deaths,80,France,3,Both,22,All ages,294,All causes,1,Number,2021,642715.3872985167,646681.9563932249,638798.1704089893
+1,Deaths,80,France,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,80,France,3,Both,22,All ages,294,All causes,3,Rate,2021,968.0924545887331,974.0671141146735,962.1921320063238
+1,Deaths,44637,Low SDI,3,Both,22,All ages,294,All causes,1,Number,2021,8971403.510829387,9891043.188801283,8244880.219219101
+1,Deaths,44637,Low SDI,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,44637,Low SDI,3,Both,22,All ages,294,All causes,3,Rate,2021,802.8945132182901,885.1975386802687,737.8744119760421
+1,Deaths,113,Guyana,3,Both,22,All ages,294,All causes,1,Number,2021,8638.053271550218,11520.295594128711,6383.667468092406
+1,Deaths,113,Guyana,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,113,Guyana,3,Both,22,All ages,294,All causes,3,Rate,2021,1129.5412813121286,1506.4331091062284,834.7501114780238
+1,Deaths,104,Caribbean,3,Both,22,All ages,294,All causes,1,Number,2021,492478.27264730155,545947.2632908822,439939.5980710131
+1,Deaths,104,Caribbean,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,104,Caribbean,3,Both,22,All ages,294,All causes,3,Rate,2021,1037.6983150679548,1150.3625371888033,926.9943569204171
+1,Deaths,78,Denmark,3,Both,22,All ages,294,All causes,1,Number,2021,56768.62217505564,57704.77452450744,55872.77117111013
+1,Deaths,78,Denmark,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,78,Denmark,3,Both,22,All ages,294,All causes,3,Rate,2021,970.1080501494838,986.1057773370317,954.7990248928531
+1,Deaths,132,Panama,3,Both,22,All ages,294,All causes,1,Number,2021,23948.961701016444,27782.01693414665,19937.687110459075
+1,Deaths,132,Panama,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,132,Panama,3,Both,22,All ages,294,All causes,3,Rate,2021,557.9905762583493,647.2975251384589,464.531266904633
+1,Deaths,12,Lao People's Democratic Republic,3,Both,22,All ages,294,All causes,1,Number,2021,51028.11559624297,62015.657301806146,40846.07435900516
+1,Deaths,12,Lao People's Democratic Republic,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,12,Lao People's Democratic Republic,3,Both,22,All ages,294,All causes,3,Rate,2021,691.6673120220987,840.599392864549,553.6534933425593
+1,Deaths,4743,European Union,3,Both,22,All ages,294,All causes,1,Number,2021,5259496.398720399,5285406.896395551,5235011.675749204
+1,Deaths,4743,European Union,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,4743,European Union,3,Both,22,All ages,294,All causes,3,Rate,2021,1177.8722136771526,1183.6749090191502,1172.3888227474868
+1,Deaths,305,Bermuda,3,Both,22,All ages,294,All causes,1,Number,2021,738.8775627583277,862.4875656739458,651.2901772495975
+1,Deaths,305,Bermuda,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,305,Bermuda,3,Both,22,All ages,294,All causes,3,Rate,2021,1162.8386903179944,1357.3749723022624,1024.9944712120196
+1,Deaths,110,Dominica,3,Both,22,All ages,294,All causes,1,Number,2021,770.538042315415,956.769897599408,642.3945088352062
+1,Deaths,110,Dominica,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,110,Dominica,3,Both,22,All ages,294,All causes,3,Rate,2021,1148.7391731765083,1426.3787129651082,957.6992911537661
+1,Deaths,4745,League of Arab States,3,Both,22,All ages,294,All causes,1,Number,2021,2828212.703852252,3157002.299074821,2527627.570610354
+1,Deaths,4745,League of Arab States,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,4745,League of Arab States,3,Both,22,All ages,294,All causes,3,Rate,2021,628.1641100748811,701.1903797057153,561.4022316392695
+1,Deaths,143,Iraq,3,Both,22,All ages,294,All causes,1,Number,2021,232700.9953843807,269516.28085297754,194226.5426552962
+1,Deaths,143,Iraq,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,143,Iraq,3,Both,22,All ages,294,All causes,3,Rate,2021,564.4748512993157,653.7795951664441,471.14537951429577
+1,Deaths,422,United States Virgin Islands,3,Both,22,All ages,294,All causes,1,Number,2021,948.438571433083,1250.6822665090453,744.0532080351447
+1,Deaths,422,United States Virgin Islands,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,422,United States Virgin Islands,3,Both,22,All ages,294,All causes,3,Rate,2021,1104.0949895889512,1455.94249918991,866.1661848462164
+1,Deaths,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,294,All causes,1,Number,2021,276584.12956292985,325801.7940839521,232800.33812701725
+1,Deaths,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,294,All causes,3,Rate,2021,1038.6638269593095,1223.4922473975582,874.2413763889261
+1,Deaths,165,Pakistan,3,Both,22,All ages,294,All causes,1,Number,2021,1718214.8476713717,1928764.531521922,1521627.7652816973
+1,Deaths,165,Pakistan,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,165,Pakistan,3,Both,22,All ages,294,All causes,3,Rate,2021,729.4368616572214,818.8219003321062,645.9793914723873
+1,Deaths,44642,Nordic Region,3,Both,22,All ages,294,All causes,1,Number,2021,250551.32853519518,257364.28737078476,244135.57354753398
+1,Deaths,44642,Nordic Region,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,44642,Nordic Region,3,Both,22,All ages,294,All causes,3,Rate,2021,908.262599736627,932.9599571207924,885.0051285492493
+1,Deaths,118,Suriname,3,Both,22,All ages,294,All causes,1,Number,2021,5393.597082776467,7241.2126718133495,4342.981150544907
+1,Deaths,118,Suriname,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,118,Suriname,3,Both,22,All ages,294,All causes,3,Rate,2021,931.139217818103,1250.1076739339862,749.7631004790331
+1,Deaths,127,El Salvador,3,Both,22,All ages,294,All causes,1,Number,2021,52025.01340881978,59572.0765467767,44987.925610940554
+1,Deaths,127,El Salvador,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,127,El Salvador,3,Both,22,All ages,294,All causes,3,Rate,2021,806.5607481819004,923.5653290994072,697.4624812640697
+1,Deaths,166,Sub-Saharan Africa,3,Both,22,All ages,294,All causes,1,Number,2021,9433631.963724365,10450852.5527164,8616787.647931224
+1,Deaths,166,Sub-Saharan Africa,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,166,Sub-Saharan Africa,3,Both,22,All ages,294,All causes,3,Rate,2021,832.508124613813,922.2767744950821,760.4224706411596
+1,Deaths,4,"Southeast Asia, East Asia, and Oceania",3,Both,22,All ages,294,All causes,1,Number,2021,17745030.668416385,19562093.222281896,15933998.842857925
+1,Deaths,4,"Southeast Asia, East Asia, and Oceania",3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,4,"Southeast Asia, East Asia, and Oceania",3,Both,22,All ages,294,All causes,3,Rate,2021,812.1268717566647,895.2873551185493,729.2423933567289
+1,Deaths,349,Greenland,3,Both,22,All ages,294,All causes,1,Number,2021,441.5955852231255,494.79371960915256,405.3531850941638
+1,Deaths,349,Greenland,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,349,Greenland,3,Both,22,All ages,294,All causes,3,Rate,2021,787.1226436207622,881.9457296633129,722.5223288638672
+1,Deaths,6,China,3,Both,22,All ages,294,All causes,1,Number,2021,11696257.67367088,13439384.570804706,9988541.964665163
+1,Deaths,6,China,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,6,China,3,Both,22,All ages,294,All causes,3,Rate,2021,822.0903844582994,944.6088772109138,702.0608243262363
+1,Deaths,94366,Sahel Region,3,Both,22,All ages,294,All causes,1,Number,2021,3377841.498878553,3823230.630110935,3004891.943236571
+1,Deaths,94366,Sahel Region,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,94366,Sahel Region,3,Both,22,All ages,294,All causes,3,Rate,2021,866.6499892265471,980.9231088836759,770.9626313423839
+1,Deaths,119,Trinidad and Tobago,3,Both,22,All ages,294,All causes,1,Number,2021,16692.477996772894,21689.960380886594,12826.302353873787
+1,Deaths,119,Trinidad and Tobago,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,119,Trinidad and Tobago,3,Both,22,All ages,294,All causes,3,Rate,2021,1198.1948268110136,1556.9167338209777,920.6787111234559
+1,Deaths,183,Mauritius,3,Both,22,All ages,294,All causes,1,Number,2021,13223.753294721353,14262.82865054229,11891.004602556302
+1,Deaths,183,Mauritius,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,183,Mauritius,3,Both,22,All ages,294,All causes,3,Rate,2021,1039.6330277473066,1121.3236819930223,934.8541856756758
+1,Deaths,96,Southern Latin America,3,Both,22,All ages,294,All causes,1,Number,2021,553035.7548194014,561101.8235640705,545193.4625047239
+1,Deaths,96,Southern Latin America,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,96,Southern Latin America,3,Both,22,All ages,294,All causes,3,Rate,2021,816.9591573565017,828.8745690950734,805.37431412474
+1,Deaths,44534,Commonwealth,3,Both,22,All ages,294,All causes,1,Number,2021,21493558.614700865,22510407.410748262,20495198.559512593
+1,Deaths,44534,Commonwealth,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,44534,Commonwealth,3,Both,22,All ages,294,All causes,3,Rate,2021,814.0428400222879,852.5547726736593,776.2311463302805
+1,Deaths,320,Cook Islands,3,Both,22,All ages,294,All causes,1,Number,2021,164.24875435086582,188.95909003937908,141.84033022306892
+1,Deaths,320,Cook Islands,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,320,Cook Islands,3,Both,22,All ages,294,All causes,3,Rate,2021,925.4746574279628,1064.7073082120585,799.2123382698387
+1,Deaths,298,American Samoa,3,Both,22,All ages,294,All causes,1,Number,2021,403.7880973282978,468.0354826119331,353.143812401607
+1,Deaths,298,American Samoa,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,298,American Samoa,3,Both,22,All ages,294,All causes,3,Rate,2021,811.4934315615656,940.611480106434,709.7135503910519
+1,Deaths,162,Bhutan,3,Both,22,All ages,294,All causes,1,Number,2021,4434.001739332197,5150.079660492904,3708.0323434368365
+1,Deaths,162,Bhutan,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,162,Bhutan,3,Both,22,All ages,294,All causes,3,Rate,2021,585.8106993862056,680.4173622769945,489.8971962926109
+1,Deaths,86,Italy,3,Both,22,All ages,294,All causes,1,Number,2021,699000.0819924932,702785.3089899,695295.1099550552
+1,Deaths,86,Italy,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,86,Italy,3,Both,22,All ages,294,All causes,3,Rate,2021,1168.6726435731248,1175.0012426041483,1162.4782244637368
+1,Deaths,129,Honduras,3,Both,22,All ages,294,All causes,1,Number,2021,72970.40138712655,83758.93049209504,65096.60062129315
+1,Deaths,129,Honduras,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,129,Honduras,3,Both,22,All ages,294,All causes,3,Rate,2021,721.7534799971412,828.4633003837845,643.873367026474
+1,Deaths,30,Vanuatu,3,Both,22,All ages,294,All causes,1,Number,2021,2257.8259905203167,2684.589251619135,1920.7681879056481
+1,Deaths,30,Vanuatu,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,30,Vanuatu,3,Both,22,All ages,294,All causes,3,Rate,2021,721.3919043655732,857.7458851107375,613.6994731816105
+1,Deaths,16,Philippines,3,Both,22,All ages,294,All causes,1,Number,2021,880414.7228592794,966453.1812373962,794106.5138907535
+1,Deaths,16,Philippines,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,16,Philippines,3,Both,22,All ages,294,All causes,3,Rate,2021,777.4113306138722,853.3837907227527,701.2006791617762
+1,Deaths,479,WHO region,3,Both,22,All ages,294,All causes,1,Number,2021,67583013.84710705,70333270.6718502,64830958.59458568
+1,Deaths,479,WHO region,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,479,WHO region,3,Both,22,All ages,294,All causes,3,Rate,2021,860.0840031302347,895.0846899124592,825.0604289555312
+1,Deaths,44639,Middle SDI,3,Both,22,All ages,294,All causes,1,Number,2021,19583077.0797,20749900.03922505,18449982.925965477
+1,Deaths,44639,Middle SDI,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,44639,Middle SDI,3,Both,22,All ages,294,All causes,3,Rate,2021,799.7845950124138,847.4383434165557,753.5083512348259
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,294,All causes,1,Number,2021,13580495.688889358,13703419.826701386,13452595.650605988
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,294,All causes,3,Rate,2021,989.2833802426571,998.237899234743,979.9663873209882
+1,Deaths,82,Greece,3,Both,22,All ages,294,All causes,1,Number,2021,143705.63355918,145949.97004957462,141483.8907020904
+1,Deaths,82,Greece,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,82,Greece,3,Both,22,All ages,294,All causes,3,Rate,2021,1412.3528277112287,1434.4103832157496,1390.5173246140878
+1,Deaths,19,Timor-Leste,3,Both,22,All ages,294,All causes,1,Number,2021,9530.295612763008,11316.246521663457,7885.9428030452345
+1,Deaths,19,Timor-Leste,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,19,Timor-Leste,3,Both,22,All ages,294,All causes,3,Rate,2021,681.8393192508779,809.614112543688,564.1950775670479
+1,Deaths,70,Australasia,3,Both,22,All ages,294,All causes,1,Number,2021,209700.0192463796,210514.63178543918,208851.63332903144
+1,Deaths,70,Australasia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,70,Australasia,3,Both,22,All ages,294,All causes,3,Rate,2021,677.2937051220408,679.9247585039218,674.5535697448531
+1,Deaths,5,East Asia,3,Both,22,All ages,294,All causes,1,Number,2021,12122771.613315241,13872829.493721398,10414611.877026761
+1,Deaths,5,East Asia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,5,East Asia,3,Both,22,All ages,294,All causes,3,Rate,2021,823.1245356783913,941.9517829588251,707.1421320956462
+1,Deaths,17,Sri Lanka,3,Both,22,All ages,294,All causes,1,Number,2021,158453.5759335996,207824.41018863558,109395.40600139408
+1,Deaths,17,Sri Lanka,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,17,Sri Lanka,3,Both,22,All ages,294,All causes,3,Rate,2021,711.5095978645097,933.2011704280512,491.22199277404843
+1,Deaths,84,Ireland,3,Both,22,All ages,294,All causes,1,Number,2021,32252.295265505403,32925.79849134551,31666.043554470743
+1,Deaths,84,Ireland,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,84,Ireland,3,Both,22,All ages,294,All causes,3,Rate,2021,652.698894634293,666.3287714359179,640.8347516137795
+1,Deaths,478,World Bank Regions,3,Both,22,All ages,294,All causes,1,Number,2021,67772404.85810502,70522540.02666464,65018485.173619166
+1,Deaths,478,World Bank Regions,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,478,World Bank Regions,3,Both,22,All ages,294,All causes,3,Rate,2021,859.7372478283703,894.624509774052,824.8019768248204
+1,Deaths,117,Saint Vincent and the Grenadines,3,Both,22,All ages,294,All causes,1,Number,2021,1152.3875807883883,1286.1798390495594,1042.9837460677538
+1,Deaths,117,Saint Vincent and the Grenadines,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,117,Saint Vincent and the Grenadines,3,Both,22,All ages,294,All causes,3,Rate,2021,1010.1993563193258,1127.48355430025,914.2943975570657
+1,Deaths,396,San Marino,3,Both,22,All ages,294,All causes,1,Number,2021,256.0570909427498,322.570239950062,199.81087411309494
+1,Deaths,396,San Marino,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,396,San Marino,3,Both,22,All ages,294,All causes,3,Rate,2021,782.0907504378022,985.2459078661141,610.2945085620886
+1,Deaths,150,Oman,3,Both,22,All ages,294,All causes,1,Number,2021,16981.196772030828,18987.492887889017,15262.064767308442
+1,Deaths,150,Oman,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,150,Oman,3,Both,22,All ages,294,All causes,3,Rate,2021,361.01321978153453,403.6662453806561,324.4651844112283
+1,Deaths,31,"Central Europe, Eastern Europe, and Central Asia",3,Both,22,All ages,294,All causes,1,Number,2021,5961652.216335211,6136097.208542398,5795044.453997775
+1,Deaths,31,"Central Europe, Eastern Europe, and Central Asia",3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,31,"Central Europe, Eastern Europe, and Central Asia",3,Both,22,All ages,294,All causes,3,Rate,2021,1426.8065598975325,1468.5566067285947,1386.9322029899736
+1,Deaths,351,Guam,3,Both,22,All ages,294,All causes,1,Number,2021,1167.739283008468,1285.2131709522814,1049.967030295254
+1,Deaths,351,Guam,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,351,Guam,3,Both,22,All ages,294,All causes,3,Rate,2021,733.5211806459901,807.312981806965,659.541960185948
+1,Deaths,115,Jamaica,3,Both,22,All ages,294,All causes,1,Number,2021,24205.402700064158,29251.09706761205,19483.233234650204
+1,Deaths,115,Jamaica,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,115,Jamaica,3,Both,22,All ages,294,All causes,3,Rate,2021,864.511518730696,1044.7217368704746,695.8562004600393
+1,Deaths,164,Nepal,3,Both,22,All ages,294,All causes,1,Number,2021,252420.64320801676,290938.94383546326,223738.32694809735
+1,Deaths,164,Nepal,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,164,Nepal,3,Both,22,All ages,294,All causes,3,Rate,2021,810.8646628434049,934.5991104489298,718.7268867562829
+1,Deaths,85,Israel,3,Both,22,All ages,294,All causes,1,Number,2021,50100.83956839513,51180.37040656597,49049.84186209717
+1,Deaths,85,Israel,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,85,Israel,3,Both,22,All ages,294,All causes,3,Rate,2021,522.2136040627524,533.4658244757155,511.25879163254797
+1,Deaths,95471,Health System Grouping Levels,3,Both,22,All ages,294,All causes,1,Number,2021,67805329.89425695,70556187.39252557,65049021.98522632
+1,Deaths,95471,Health System Grouping Levels,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,95471,Health System Grouping Levels,3,Both,22,All ages,294,All causes,3,Rate,2021,859.9152372169625,894.8019383341574,824.959413343922
+1,Deaths,94215,Organization of Islamic Cooperation,3,Both,22,All ages,294,All causes,1,Number,2021,14522219.70792991,15563727.854997098,13484218.76999664
+1,Deaths,94215,Organization of Islamic Cooperation,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,94215,Organization of Islamic Cooperation,3,Both,22,All ages,294,All causes,3,Rate,2021,735.9209491852613,788.6999099494576,683.3197180468893
+1,Deaths,131,Nicaragua,3,Both,22,All ages,294,All causes,1,Number,2021,38377.275899749206,42243.88229144877,35225.09342004942
+1,Deaths,131,Nicaragua,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,131,Nicaragua,3,Both,22,All ages,294,All causes,3,Rate,2021,575.4597885397487,633.4387994092615,528.1934252901725
+1,Deaths,44591,World Bank Income Levels,3,Both,22,All ages,294,All causes,1,Number,2021,67805129.90599553,70555991.36234416,65048834.232279606
+1,Deaths,44591,World Bank Income Levels,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,44591,World Bank Income Levels,3,Both,22,All ages,294,All causes,3,Rate,2021,859.9149682213766,894.8018115191765,824.9592073525728
+1,Deaths,148,Morocco,3,Both,22,All ages,294,All causes,1,Number,2021,285883.5156898679,316999.5477152046,240238.03679441527
+1,Deaths,148,Morocco,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,148,Morocco,3,Both,22,All ages,294,All causes,3,Rate,2021,768.9875410209328,852.6854096992015,646.2074482624017
+1,Deaths,103,Latin America and Caribbean,3,Both,22,All ages,294,All causes,1,Number,2021,4983213.333927304,5207942.786082539,4780039.595671932
+1,Deaths,103,Latin America and Caribbean,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,103,Latin America and Caribbean,3,Both,22,All ages,294,All causes,3,Rate,2021,838.7570711381652,876.5827479569535,804.559576828412
+1,Deaths,94216,Association of Southeast Asian Nations,3,Both,22,All ages,294,All causes,1,Number,2021,5347808.680882265,5971579.20569042,4748105.86046461
+1,Deaths,94216,Association of Southeast Asian Nations,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,94216,Association of Southeast Asian Nations,3,Both,22,All ages,294,All causes,3,Rate,2021,788.8242793697124,880.8330560641475,700.3655903288961
+1,Deaths,44590,Four World Regions,3,Both,22,All ages,294,All causes,1,Number,2021,67767564.2749845,70517185.5225856,65014639.67302702
+1,Deaths,44590,Four World Regions,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,44590,Four World Regions,3,Both,22,All ages,294,All causes,3,Rate,2021,859.8398937579555,894.7272925704381,824.910581739808
+1,Deaths,101,Canada,3,Both,22,All ages,294,All causes,1,Number,2021,310756.521667464,314290.1480319364,307174.762563635
+1,Deaths,101,Canada,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,101,Canada,3,Both,22,All ages,294,All causes,3,Rate,2021,829.3650886928037,838.7958363644927,819.805881565359
+1,Deaths,44586,G20,3,Both,22,All ages,294,All causes,1,Number,2021,44559346.434400104,46574587.951329276,42675125.78614057
+1,Deaths,44586,G20,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,44586,G20,3,Both,22,All ages,294,All causes,3,Rate,2021,904.9705446544895,945.898752968107,866.7032826152009
+1,Deaths,44634,High-middle SDI,3,Both,22,All ages,294,All causes,1,Number,2021,12930015.412909655,13670074.593129324,12187716.479099102
+1,Deaths,44634,High-middle SDI,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,44634,High-middle SDI,3,Both,22,All ages,294,All causes,3,Rate,2021,991.5418122332019,1048.2934553891862,934.6184129529173
+1,Deaths,44587,African Union,3,Both,22,All ages,294,All causes,1,Number,2021,11110624.65880824,12195140.727255289,10214005.453551263
+1,Deaths,44587,African Union,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,44587,African Union,3,Both,22,All ages,294,All causes,3,Rate,2021,803.2011813355628,881.6022266506445,738.3834391306173
+1,Deaths,167,Central Sub-Saharan Africa,3,Both,22,All ages,294,All causes,1,Number,2021,1093154.8447454579,1248952.6724289774,949921.652020817
+1,Deaths,167,Central Sub-Saharan Africa,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,167,Central Sub-Saharan Africa,3,Both,22,All ages,294,All causes,3,Rate,2021,798.3407722391711,912.1213209545799,693.7362889496162
+1,Deaths,87,Luxembourg,3,Both,22,All ages,294,All causes,1,Number,2021,4552.766361454847,4789.85011389151,4322.191600262381
+1,Deaths,87,Luxembourg,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,87,Luxembourg,3,Both,22,All ages,294,All causes,3,Rate,2021,706.6590360305022,743.4580638422098,670.8703033037987
+1,Deaths,21,Oceania,3,Both,22,All ages,294,All causes,1,Number,2021,108688.2163425162,131444.6089380385,89554.62205936002
+1,Deaths,21,Oceania,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,21,Oceania,3,Both,22,All ages,294,All causes,3,Rate,2021,780.3813279356228,943.7722130777074,643.0021324962917
+1,Deaths,120,Andean Latin America,3,Both,22,All ages,294,All causes,1,Number,2021,565605.480757797,624401.2845085049,516472.91218894935
+1,Deaths,120,Andean Latin America,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,120,Andean Latin America,3,Both,22,All ages,294,All causes,3,Rate,2021,855.2506699531085,944.1556616106365,780.9574326797972
+1,Deaths,134,Tropical Latin America,3,Both,22,All ages,294,All causes,1,Number,2021,1847650.4963548363,1867276.478612649,1829596.0252357794
+1,Deaths,134,Tropical Latin America,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,134,Tropical Latin America,3,Both,22,All ages,294,All causes,3,Rate,2021,812.0652524910931,820.6911145082981,804.1300890622875
+1,Deaths,152,Saudi Arabia,3,Both,22,All ages,294,All causes,1,Number,2021,155784.7950378304,187285.8232327317,130175.8770843355
+1,Deaths,152,Saudi Arabia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,152,Saudi Arabia,3,Both,22,All ages,294,All causes,3,Rate,2021,413.1763695010374,496.72419239324176,345.2557502627762
+1,Deaths,44635,High SDI,3,Both,22,All ages,294,All causes,1,Number,2021,10552312.762848247,10654695.164096655,10452709.30231989
+1,Deaths,44635,High SDI,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,44635,High SDI,3,Both,22,All ages,294,All causes,3,Rate,2021,964.520323870786,973.8784531292793,955.4162000482154
+1,Deaths,153,Syrian Arab Republic,3,Both,22,All ages,294,All causes,1,Number,2021,104373.246426652,127860.0918814774,84595.85990934029
+1,Deaths,153,Syrian Arab Republic,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,153,Syrian Arab Republic,3,Both,22,All ages,294,All causes,3,Rate,2021,743.9059232770991,911.3051759698548,602.945327713867
+1,Deaths,94217,Gulf Cooperation Council,3,Both,22,All ages,294,All causes,1,Number,2021,216236.48623102816,252878.5553364216,185098.7970117282
+1,Deaths,94217,Gulf Cooperation Council,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,94217,Gulf Cooperation Council,3,Both,22,All ages,294,All causes,3,Rate,2021,353.3516146572324,413.2283473421107,302.4695782622294
+5,Prevalence,19,Timor-Leste,3,Both,22,All ages,294,All causes,1,Number,2021,1356031.7133424694,1365115.3746010556,1347094.9456742834
+5,Prevalence,19,Timor-Leste,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,19,Timor-Leste,3,Both,22,All ages,294,All causes,3,Rate,2021,97016.48069235211,97666.36582294195,96377.1049761342
+5,Prevalence,18,Thailand,3,Both,22,All ages,294,All causes,1,Number,2021,64963827.30181623,65177209.31826916,64752938.47966103
+5,Prevalence,18,Thailand,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,18,Thailand,3,Both,22,All ages,294,All causes,3,Rate,2021,97421.5128611431,97741.50630555069,97105.2582783518
+5,Prevalence,17,Sri Lanka,3,Both,22,All ages,294,All causes,1,Number,2021,21525980.381893784,21613861.406787805,21421378.92640952
+5,Prevalence,17,Sri Lanka,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,17,Sri Lanka,3,Both,22,All ages,294,All causes,3,Rate,2021,96658.85768067984,97053.4729003986,96189.16213049016
+5,Prevalence,16,Philippines,3,Both,22,All ages,294,All causes,1,Number,2021,108863258.94567758,109388295.37150392,108292123.74651864
+5,Prevalence,16,Philippines,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,16,Philippines,3,Both,22,All ages,294,All causes,3,Rate,2021,96126.89201410447,96590.50223758737,95622.57630514336
+5,Prevalence,32,Central Asia,3,Both,22,All ages,294,All causes,1,Number,2021,91523074.08416311,92053469.21452758,90943710.47590554
+5,Prevalence,32,Central Asia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,32,Central Asia,3,Both,22,All ages,294,All causes,3,Rate,2021,95526.77616499792,96080.3735764085,94922.06813614312
+5,Prevalence,31,"Central Europe, Eastern Europe, and Central Asia",3,Both,22,All ages,294,All causes,1,Number,2021,401989163.5655111,403735724.00939655,400150165.0285174
+5,Prevalence,31,"Central Europe, Eastern Europe, and Central Asia",3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,31,"Central Europe, Eastern Europe, and Central Asia",3,Both,22,All ages,294,All causes,3,Rate,2021,96208.3588189546,96626.36439998553,95768.22996188464
+5,Prevalence,15,Myanmar,3,Both,22,All ages,294,All causes,1,Number,2021,54921239.04320616,55172837.74674142,54679055.58776979
+5,Prevalence,15,Myanmar,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,15,Myanmar,3,Both,22,All ages,294,All causes,3,Rate,2021,97344.134125348,97790.07559297283,96914.88054003852
+5,Prevalence,13,Malaysia,3,Both,22,All ages,294,All causes,1,Number,2021,30352735.52703963,30546956.065261945,30168581.7917224
+5,Prevalence,13,Malaysia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,13,Malaysia,3,Both,22,All ages,294,All causes,3,Rate,2021,95412.17248082328,96022.69417418704,94833.29523460544
+5,Prevalence,14,Maldives,3,Both,22,All ages,294,All causes,1,Number,2021,500852.0677581336,503160.38934127416,498430.4791122839
+5,Prevalence,14,Maldives,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,14,Maldives,3,Both,22,All ages,294,All causes,3,Rate,2021,96837.70341569798,97284.00797396169,96369.4991330817
+5,Prevalence,30,Vanuatu,3,Both,22,All ages,294,All causes,1,Number,2021,306479.6870168332,307925.5223556644,304965.0239715243
+5,Prevalence,30,Vanuatu,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,30,Vanuatu,3,Both,22,All ages,294,All causes,3,Rate,2021,97922.49978284964,98384.45473990029,97438.55387058048
+5,Prevalence,11,Indonesia,3,Both,22,All ages,294,All causes,1,Number,2021,269777079.4537081,270939149.38011634,268431059.5412052
+5,Prevalence,11,Indonesia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,11,Indonesia,3,Both,22,All ages,294,All causes,3,Rate,2021,96724.04512860859,97140.68580183455,96241.45227444712
+5,Prevalence,12,Lao People's Democratic Republic,3,Both,22,All ages,294,All causes,1,Number,2021,7120669.675129002,7162041.737928628,7079766.656286355
+5,Prevalence,12,Lao People's Democratic Republic,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,12,Lao People's Democratic Republic,3,Both,22,All ages,294,All causes,3,Rate,2021,96518.05473209292,97078.8378050139,95963.62937724868
+5,Prevalence,29,Tonga,3,Both,22,All ages,294,All causes,1,Number,2021,101700.07868944432,102437.21986681964,100919.81264794905
+5,Prevalence,29,Tonga,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,29,Tonga,3,Both,22,All ages,294,All causes,3,Rate,2021,95673.13701957538,96366.59379733432,94939.11103983504
+5,Prevalence,28,Solomon Islands,3,Both,22,All ages,294,All causes,1,Number,2021,670843.0327714537,673250.2204957986,668213.3019464317
+5,Prevalence,28,Solomon Islands,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,28,Solomon Islands,3,Both,22,All ages,294,All causes,3,Rate,2021,98138.97879114847,98491.13113303056,97754.2701707174
+5,Prevalence,10,Cambodia,3,Both,22,All ages,294,All causes,1,Number,2021,16574383.427577568,16660486.367966838,16486231.444068355
+5,Prevalence,10,Cambodia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,10,Cambodia,3,Both,22,All ages,294,All causes,3,Rate,2021,97244.23942218751,97749.41748728741,96727.03933282259
+5,Prevalence,9,Southeast Asia,3,Both,22,All ages,294,All causes,1,Number,2021,674906958.8751513,677699667.1209638,671916427.6066515
+5,Prevalence,9,Southeast Asia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,9,Southeast Asia,3,Both,22,All ages,294,All causes,3,Rate,2021,96649.34781845156,97049.27469289796,96221.09190416549
+5,Prevalence,27,Samoa,3,Both,22,All ages,294,All causes,1,Number,2021,205394.14692496863,206845.0792395868,203882.95735157904
+5,Prevalence,27,Samoa,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,27,Samoa,3,Both,22,All ages,294,All causes,3,Rate,2021,96140.36987073769,96819.51857810449,95433.01609895009
+5,Prevalence,8,Taiwan (Province of China),3,Both,22,All ages,294,All causes,1,Number,2021,22769337.00419634,22869772.767240312,22668849.31903272
+5,Prevalence,8,Taiwan (Province of China),3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,8,Taiwan (Province of China),3,Both,22,All ages,294,All causes,3,Rate,2021,96330.48278822307,96755.3974680596,95905.34844090766
+5,Prevalence,4,"Southeast Asia, East Asia, and Oceania",3,Both,22,All ages,294,All causes,1,Number,2021,2099826014.222424,2107980777.580788,2091042266.1214168
+5,Prevalence,4,"Southeast Asia, East Asia, and Oceania",3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,4,"Southeast Asia, East Asia, and Oceania",3,Both,22,All ages,294,All causes,3,Rate,2021,96101.56015108821,96474.77463461865,95699.55927541401
+5,Prevalence,6,China,3,Both,22,All ages,294,All causes,1,Number,2021,1363267445.1643288,1368741165.5469973,1357369777.9998658
+5,Prevalence,6,China,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,6,China,3,Both,22,All ages,294,All causes,3,Rate,2021,95819.45690521748,96204.18619379461,95404.92983152332
+5,Prevalence,7,Democratic People's Republic of Korea,3,Both,22,All ages,294,All causes,1,Number,2021,25284149.15917985,25407123.41812645,25153088.832782567
+5,Prevalence,7,Democratic People's Republic of Korea,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,7,Democratic People's Republic of Korea,3,Both,22,All ages,294,All causes,3,Rate,2021,95801.3628907724,96267.31100448577,95304.7767564824
+5,Prevalence,21,Oceania,3,Both,22,All ages,294,All causes,1,Number,2021,13598124.019567322,13657147.813477674,13537367.37953796
+5,Prevalence,21,Oceania,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,21,Oceania,3,Both,22,All ages,294,All causes,3,Rate,2021,97634.52227775859,98058.31308251704,97198.28963890832
+5,Prevalence,26,Papua New Guinea,3,Both,22,All ages,294,All causes,1,Number,2021,10225191.063313227,10273799.435167884,10173947.641059602
+5,Prevalence,26,Papua New Guinea,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,26,Papua New Guinea,3,Both,22,All ages,294,All causes,3,Rate,2021,97740.4877596827,98205.12513856981,97250.6624787141
+5,Prevalence,25,Micronesia (Federated States of),3,Both,22,All ages,294,All causes,1,Number,2021,100490.86365369832,100900.19793447768,100118.94972549252
+5,Prevalence,25,Micronesia (Federated States of),3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,25,Micronesia (Federated States of),3,Both,22,All ages,294,All causes,3,Rate,2021,97965.53868233706,98364.58643513471,97602.97091253765
+5,Prevalence,24,Marshall Islands,3,Both,22,All ages,294,All causes,1,Number,2021,54871.41161000528,55155.997341990944,54602.2983314229
+5,Prevalence,24,Marshall Islands,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,24,Marshall Islands,3,Both,22,All ages,294,All causes,3,Rate,2021,97509.13096737955,98014.85346653569,97030.90376023465
+5,Prevalence,5,East Asia,3,Both,22,All ages,294,All causes,1,Number,2021,1411320931.3277042,1416942061.6016695,1405226475.212488
+5,Prevalence,5,East Asia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,5,East Asia,3,Both,22,All ages,294,All causes,3,Rate,2021,95827.33415651819,96209.003497023,95413.52644652715
+5,Prevalence,23,Kiribati,3,Both,22,All ages,294,All causes,1,Number,2021,118525.0683837302,119063.12842389874,118017.57747869244
+5,Prevalence,23,Kiribati,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,23,Kiribati,3,Both,22,All ages,294,All causes,3,Rate,2021,97824.46083270856,98268.5477591526,97405.604089238
+5,Prevalence,42,Central Europe,3,Both,22,All ages,294,All causes,1,Number,2021,111682143.98270091,112079786.690574,111229309.09931546
+5,Prevalence,42,Central Europe,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,42,Central Europe,3,Both,22,All ages,294,All causes,3,Rate,2021,96892.6295481371,97237.614397214,96499.76135061088
+5,Prevalence,22,Fiji,3,Both,22,All ages,294,All causes,1,Number,2021,895579.709316335,900785.3942326304,890309.8365665837
+5,Prevalence,22,Fiji,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,22,Fiji,3,Both,22,All ages,294,All causes,3,Rate,2021,96874.51719852386,97437.61415986365,96304.4770636042
+5,Prevalence,64,High-income,3,Both,22,All ages,294,All causes,1,Number,2021,1040704049.8514189,1044559285.908317,1036753125.667015
+5,Prevalence,64,High-income,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,64,High-income,3,Both,22,All ages,294,All causes,3,Rate,2021,95331.72348474682,95684.87508226116,94969.80655753726
+5,Prevalence,20,Viet Nam,3,Both,22,All ages,294,All causes,1,Number,2021,96665333.34048668,97213116.85650338,96111318.05264863
+5,Prevalence,20,Viet Nam,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,20,Viet Nam,3,Both,22,All ages,294,All causes,3,Rate,2021,96407.10280754698,96953.42298169763,95854.56750905048
+5,Prevalence,65,High-income Asia Pacific,3,Both,22,All ages,294,All causes,1,Number,2021,177060245.71559015,177662526.25059062,176455946.41842157
+5,Prevalence,65,High-income Asia Pacific,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,65,High-income Asia Pacific,3,Both,22,All ages,294,All causes,3,Rate,2021,95477.87534037574,95802.64878462515,95152.01329985859
+5,Prevalence,83,Iceland,3,Both,22,All ages,294,All causes,1,Number,2021,331431.20515587955,333424.76320018864,329507.8323106249
+5,Prevalence,83,Iceland,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,83,Iceland,3,Both,22,All ages,294,All causes,3,Rate,2021,94590.32681270337,95159.28744162964,94041.3970101226
+5,Prevalence,82,Greece,3,Both,22,All ages,294,All causes,1,Number,2021,9777748.812023267,9812539.06456739,9744063.73850929
+5,Prevalence,82,Greece,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,82,Greece,3,Both,22,All ages,294,All causes,3,Rate,2021,96096.65843492596,96438.58039261481,95765.59828334503
+5,Prevalence,81,Germany,3,Both,22,All ages,294,All causes,1,Number,2021,81592685.98434784,81888427.11517714,81281258.17673108
+5,Prevalence,81,Germany,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,81,Germany,3,Both,22,All ages,294,All causes,3,Rate,2021,95573.2930213574,95919.70830863732,95208.50320284262
+5,Prevalence,80,France,3,Both,22,All ages,294,All causes,1,Number,2021,62998202.00498262,63337566.11928124,62643847.00973086
+5,Prevalence,80,France,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,80,France,3,Both,22,All ages,294,All causes,3,Rate,2021,94891.2772573061,95402.4457230116,94357.52872112906
+5,Prevalence,56,Eastern Europe,3,Both,22,All ages,294,All causes,1,Number,2021,198783945.4986472,199665495.61628413,197860762.1735603
+5,Prevalence,56,Eastern Europe,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,56,Eastern Europe,3,Both,22,All ages,294,All causes,3,Rate,2021,96142.72677900152,96569.09235842181,95696.2251162636
+5,Prevalence,79,Finland,3,Both,22,All ages,294,All causes,1,Number,2021,5282771.429900091,5306762.430422345,5258059.262673487
+5,Prevalence,79,Finland,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,79,Finland,3,Both,22,All ages,294,All causes,3,Rate,2021,95427.071146948,95860.44043882492,94980.67482421835
+5,Prevalence,78,Denmark,3,Both,22,All ages,294,All causes,1,Number,2021,5538669.906413312,5563373.718593933,5515049.2063277215
+5,Prevalence,78,Denmark,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,78,Denmark,3,Both,22,All ages,294,All causes,3,Rate,2021,94649.2632279036,95071.42191605872,94245.61363372208
+5,Prevalence,77,Cyprus,3,Both,22,All ages,294,All causes,1,Number,2021,1300287.8046799388,1306480.7211740897,1294179.3886660722
+5,Prevalence,77,Cyprus,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,77,Cyprus,3,Both,22,All ages,294,All causes,3,Rate,2021,95766.00679366304,96222.11418843904,95316.12284691147
+5,Prevalence,73,Western Europe,3,Both,22,All ages,294,All causes,1,Number,2021,417445454.7976972,418983499.87407935,415938758.327168
+5,Prevalence,73,Western Europe,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,73,Western Europe,3,Both,22,All ages,294,All causes,3,Rate,2021,95440.26160384754,95791.90377113268,95095.78664633575
+5,Prevalence,76,Belgium,3,Both,22,All ages,294,All causes,1,Number,2021,10883744.173391197,10939829.025996752,10829037.475742543
+5,Prevalence,76,Belgium,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,76,Belgium,3,Both,22,All ages,294,All causes,3,Rate,2021,94894.81570220398,95383.8166991863,94417.8307686792
+5,Prevalence,74,Andorra,3,Both,22,All ages,294,All causes,1,Number,2021,82588.60830735708,82913.57944824424,82285.59985727008
+5,Prevalence,74,Andorra,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,74,Andorra,3,Both,22,All ages,294,All causes,3,Rate,2021,96489.5337355018,96869.20248769823,96135.52433074216
+5,Prevalence,75,Austria,3,Both,22,All ages,294,All causes,1,Number,2021,8583026.665419718,8625218.062740143,8544398.456479494
+5,Prevalence,75,Austria,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,75,Austria,3,Both,22,All ages,294,All causes,3,Rate,2021,95554.76503036745,96024.48150852992,95124.7174990346
+5,Prevalence,70,Australasia,3,Both,22,All ages,294,All causes,1,Number,2021,29439446.501964223,29593642.407815438,29284018.240499444
+5,Prevalence,70,Australasia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,70,Australasia,3,Both,22,All ages,294,All causes,3,Rate,2021,95084.16770639722,95582.19301304208,94582.16211065867
+5,Prevalence,95,United Kingdom,3,Both,22,All ages,294,All causes,1,Number,2021,64475350.96690121,64721385.704733446,64234704.2645178
+5,Prevalence,95,United Kingdom,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,95,United Kingdom,3,Both,22,All ages,294,All causes,3,Rate,2021,95028.56423158126,95391.188514143,94673.88123611682
+5,Prevalence,91,Portugal,3,Both,22,All ages,294,All causes,1,Number,2021,10205009.2334003,10243362.105028126,10167057.545774626
+5,Prevalence,91,Portugal,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,91,Portugal,3,Both,22,All ages,294,All causes,3,Rate,2021,96202.439534868,96563.99136979316,95844.66965435616
+5,Prevalence,96,Southern Latin America,3,Both,22,All ages,294,All causes,1,Number,2021,64892244.23043844,65295943.72537004,64482910.775226295
+5,Prevalence,96,Southern Latin America,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,96,Southern Latin America,3,Both,22,All ages,294,All causes,3,Rate,2021,95860.5527824934,96456.90843641006,95255.87449228576
+5,Prevalence,89,Netherlands,3,Both,22,All ages,294,All causes,1,Number,2021,16353608.925469816,16428175.261047663,16279181.46976459
+5,Prevalence,89,Netherlands,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,89,Netherlands,3,Both,22,All ages,294,All causes,3,Rate,2021,95020.2212871774,95453.47793037284,94587.77158490165
+5,Prevalence,87,Luxembourg,3,Both,22,All ages,294,All causes,1,Number,2021,613468.7676187686,616460.5669987099,610528.8973528132
+5,Prevalence,87,Luxembourg,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,87,Luxembourg,3,Both,22,All ages,294,All causes,3,Rate,2021,95219.74411657888,95684.1171807725,94763.43124584095
+5,Prevalence,94,Switzerland,3,Both,22,All ages,294,All causes,1,Number,2021,8508166.20017423,8544994.989440478,8473121.841126356
+5,Prevalence,94,Switzerland,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,94,Switzerland,3,Both,22,All ages,294,All causes,3,Rate,2021,95352.97363962684,95765.72234357348,94960.22345516988
+5,Prevalence,88,Malta,3,Both,22,All ages,294,All causes,1,Number,2021,423051.30238311744,425077.0400045519,421176.7892032252
+5,Prevalence,88,Malta,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,88,Malta,3,Both,22,All ages,294,All causes,3,Rate,2021,95665.54074930807,96123.62534538205,95241.65287569576
+5,Prevalence,92,Spain,3,Both,22,All ages,294,All causes,1,Number,2021,43506228.08347312,43709728.56904956,43301558.20995116
+5,Prevalence,92,Spain,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,92,Spain,3,Both,22,All ages,294,All causes,3,Rate,2021,95514.53296379569,95961.30241943408,95065.19620806252
+5,Prevalence,90,Norway,3,Both,22,All ages,294,All causes,1,Number,2021,5141844.575952849,5166506.626984764,5116455.101650436
+5,Prevalence,90,Norway,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,90,Norway,3,Both,22,All ages,294,All causes,3,Rate,2021,94901.77127232599,95356.95273329112,94433.16393747184
+5,Prevalence,93,Sweden,3,Both,22,All ages,294,All causes,1,Number,2021,9871584.35863509,9923375.82590596,9821060.550163746
+5,Prevalence,93,Sweden,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,93,Sweden,3,Both,22,All ages,294,All causes,3,Rate,2021,95161.43803959747,95660.70445161632,94674.39177683987
+5,Prevalence,86,Italy,3,Both,22,All ages,294,All causes,1,Number,2021,57882140.69299663,58046116.76300585,57721283.57408053
+5,Prevalence,86,Italy,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,86,Italy,3,Both,22,All ages,294,All causes,3,Rate,2021,96774.34398367109,97048.49895468935,96505.40365126746
+5,Prevalence,85,Israel,3,Both,22,All ages,294,All causes,1,Number,2021,8983379.707936987,9053113.613013323,8913672.167347038
+5,Prevalence,85,Israel,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,85,Israel,3,Both,22,All ages,294,All causes,3,Rate,2021,93636.01756696556,94362.87153206876,92909.43840550998
+5,Prevalence,115,Jamaica,3,Both,22,All ages,294,All causes,1,Number,2021,2728590.0695325164,2740390.685228956,2716482.4582375567
+5,Prevalence,115,Jamaica,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,115,Jamaica,3,Both,22,All ages,294,All causes,3,Rate,2021,97453.34850383624,97874.8150798771,97020.91738263128
+5,Prevalence,114,Haiti,3,Both,22,All ages,294,All causes,1,Number,2021,12641903.6888033,12681970.08334542,12601096.756139714
+5,Prevalence,114,Haiti,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,114,Haiti,3,Both,22,All ages,294,All causes,3,Rate,2021,98273.28937651803,98584.75009335602,97956.07200159304
+5,Prevalence,113,Guyana,3,Both,22,All ages,294,All causes,1,Number,2021,742568.3620964424,746540.7037468804,738903.5099112499
+5,Prevalence,113,Guyana,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,113,Guyana,3,Both,22,All ages,294,All causes,3,Rate,2021,97100.76944613903,97620.20637672883,96621.54088584341
+5,Prevalence,112,Grenada,3,Both,22,All ages,294,All causes,1,Number,2021,99797.58730888764,100212.62495295756,99368.44138836792
+5,Prevalence,112,Grenada,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,112,Grenada,3,Both,22,All ages,294,All causes,3,Rate,2021,97243.48426038948,97647.89991508528,96825.32140001589
+5,Prevalence,84,Ireland,3,Both,22,All ages,294,All causes,1,Number,2021,4675110.115919199,4704164.678415811,4646739.4275874905
+5,Prevalence,84,Ireland,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,84,Ireland,3,Both,22,All ages,294,All causes,3,Rate,2021,94611.5363211886,95199.52178608364,94037.39061274576
+5,Prevalence,111,Dominican Republic,3,Both,22,All ages,294,All causes,1,Number,2021,10630295.754310122,10685834.59926178,10572674.991449956
+5,Prevalence,111,Dominican Republic,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,111,Dominican Republic,3,Both,22,All ages,294,All causes,3,Rate,2021,96525.85760306465,97030.16479856939,96002.6460500309
+5,Prevalence,110,Dominica,3,Both,22,All ages,294,All causes,1,Number,2021,65189.18213783459,65449.83932474787,64906.09006118498
+5,Prevalence,110,Dominica,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,110,Dominica,3,Both,22,All ages,294,All causes,3,Rate,2021,97185.81442655761,97574.40928486915,96763.7730214556
+5,Prevalence,108,Belize,3,Both,22,All ages,294,All causes,1,Number,2021,413271.5202851719,415446.7474207279,410583.816325224
+5,Prevalence,108,Belize,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,108,Belize,3,Both,22,All ages,294,All causes,3,Rate,2021,96316.91537329424,96823.87304554928,95690.52003233269
+5,Prevalence,100,High-income North America,3,Both,22,All ages,294,All causes,1,Number,2021,351866658.6057275,353356864.611872,350201298.9659229
+5,Prevalence,100,High-income North America,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,100,High-income North America,3,Both,22,All ages,294,All causes,3,Rate,2021,95054.2575039854,95456.82598263382,94604.37252577796
+5,Prevalence,106,Bahamas,3,Both,22,All ages,294,All causes,1,Number,2021,377312.1953447479,378918.0309826008,375677.243194478
+5,Prevalence,106,Bahamas,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,106,Bahamas,3,Both,22,All ages,294,All causes,3,Rate,2021,97254.00440845458,97667.91614555153,96832.58775245522
+5,Prevalence,109,Cuba,3,Both,22,All ages,294,All causes,1,Number,2021,11025142.38132466,11062449.83924581,10987131.58990104
+5,Prevalence,109,Cuba,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,109,Cuba,3,Both,22,All ages,294,All causes,3,Rate,2021,97831.43675373029,98162.48392607691,97494.1485620225
+5,Prevalence,107,Barbados,3,Both,22,All ages,294,All causes,1,Number,2021,292235.3431360292,293204.9034907487,291240.7082073611
+5,Prevalence,107,Barbados,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,107,Barbados,3,Both,22,All ages,294,All causes,3,Rate,2021,97729.46811917696,98053.70890661684,97396.84188202044
+5,Prevalence,105,Antigua and Barbuda,3,Both,22,All ages,294,All causes,1,Number,2021,87189.50980407292,87551.02054961633,86845.02208262817
+5,Prevalence,105,Antigua and Barbuda,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,105,Antigua and Barbuda,3,Both,22,All ages,294,All causes,3,Rate,2021,97532.14380890228,97936.53784784158,97146.7921070307
+5,Prevalence,104,Caribbean,3,Both,22,All ages,294,All causes,1,Number,2021,46289551.85393396,46424738.833678745,46169487.046998665
+5,Prevalence,104,Caribbean,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,104,Caribbean,3,Both,22,All ages,294,All causes,3,Rate,2021,97536.46532641855,97821.31708311864,97283.47741857432
+5,Prevalence,102,United States of America,3,Both,22,All ages,294,All causes,1,Number,2021,316425231.2768387,317746507.714387,314963211.5877379
+5,Prevalence,102,United States of America,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,102,United States of America,3,Both,22,All ages,294,All causes,3,Rate,2021,95124.45120602124,95521.65624402044,94684.93562119597
+5,Prevalence,103,Latin America and Caribbean,3,Both,22,All ages,294,All causes,1,Number,2021,574208314.4507172,576141207.3350554,572128899.8051114
+5,Prevalence,103,Latin America and Caribbean,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,103,Latin America and Caribbean,3,Both,22,All ages,294,All causes,3,Rate,2021,96648.73883139517,96974.07661363574,96298.73901783004
+5,Prevalence,124,Central Latin America,3,Both,22,All ages,294,All causes,1,Number,2021,242143676.9368061,243176327.45996416,241072978.92717543
+5,Prevalence,124,Central Latin America,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,124,Central Latin America,3,Both,22,All ages,294,All causes,3,Rate,2021,95708.24690744877,96116.40611478304,95285.04928046397
+5,Prevalence,125,Colombia,3,Both,22,All ages,294,All causes,1,Number,2021,47141792.62397383,47364370.55754149,46919834.31413983
+5,Prevalence,125,Colombia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,125,Colombia,3,Both,22,All ages,294,All causes,3,Rate,2021,96089.24497594604,96542.92618733781,95636.82674530716
+5,Prevalence,101,Canada,3,Both,22,All ages,294,All causes,1,Number,2021,35383287.93294506,35567070.4636413,35187809.2904644
+5,Prevalence,101,Canada,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,101,Canada,3,Both,22,All ages,294,All causes,3,Rate,2021,94432.97787375908,94923.46738642712,93911.27309733607
+5,Prevalence,131,Nicaragua,3,Both,22,All ages,294,All causes,1,Number,2021,6412247.925918902,6453352.6053941045,6373722.791448234
+5,Prevalence,131,Nicaragua,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,131,Nicaragua,3,Both,22,All ages,294,All causes,3,Rate,2021,96150.41060113,96766.7672758606,95572.73370207456
+5,Prevalence,130,Mexico,3,Both,22,All ages,294,All causes,1,Number,2021,123234890.70593172,123943086.54861028,122521220.38436516
+5,Prevalence,130,Mexico,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,130,Mexico,3,Both,22,All ages,294,All causes,3,Rate,2021,95326.96872196617,95874.78567995036,94774.91704218565
+5,Prevalence,128,Guatemala,3,Both,22,All ages,294,All causes,1,Number,2021,15098312.08379944,15202489.350554075,14989075.951809138
+5,Prevalence,128,Guatemala,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,128,Guatemala,3,Both,22,All ages,294,All causes,3,Rate,2021,95756.68298340388,96417.39720439319,95063.88437099793
+5,Prevalence,127,El Salvador,3,Both,22,All ages,294,All causes,1,Number,2021,6168144.167074004,6211542.159760779,6119822.489372494
+5,Prevalence,127,El Salvador,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,127,El Salvador,3,Both,22,All ages,294,All causes,3,Rate,2021,95626.75044780738,96299.56368047255,94877.60372074993
+5,Prevalence,126,Costa Rica,3,Both,22,All ages,294,All causes,1,Number,2021,4564065.163817055,4589589.568239453,4539162.911879046
+5,Prevalence,126,Costa Rica,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,126,Costa Rica,3,Both,22,All ages,294,All causes,3,Rate,2021,96128.16734471178,96665.7613824004,95603.67705904828
+5,Prevalence,129,Honduras,3,Both,22,All ages,294,All causes,1,Number,2021,9708189.00465042,9778582.046079136,9630891.269625625
+5,Prevalence,129,Honduras,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,129,Honduras,3,Both,22,All ages,294,All causes,3,Rate,2021,96024.12848742525,96720.38918563924,95259.57315828481
+5,Prevalence,120,Andean Latin America,3,Both,22,All ages,294,All causes,1,Number,2021,64229537.527049705,64488506.20743591,63966320.94698114
+5,Prevalence,120,Andean Latin America,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,120,Andean Latin America,3,Both,22,All ages,294,All causes,3,Rate,2021,97121.327267178,97512.9131780861,96723.31811750568
+5,Prevalence,117,Saint Vincent and the Grenadines,3,Both,22,All ages,294,All causes,1,Number,2021,110939.4823178817,111440.66247227634,110436.53717204016
+5,Prevalence,117,Saint Vincent and the Grenadines,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,117,Saint Vincent and the Grenadines,3,Both,22,All ages,294,All causes,3,Rate,2021,97251.12930430197,97690.47096140584,96810.240430573
+5,Prevalence,119,Trinidad and Tobago,3,Both,22,All ages,294,All causes,1,Number,2021,1352125.927150892,1358048.853654818,1346413.0406084214
+5,Prevalence,119,Trinidad and Tobago,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,119,Trinidad and Tobago,3,Both,22,All ages,294,All causes,3,Rate,2021,97056.30832177552,97481.45909315652,96646.23432900659
+5,Prevalence,118,Suriname,3,Both,22,All ages,294,All causes,1,Number,2021,563054.4159795648,565548.8848488773,560540.1926740638
+5,Prevalence,118,Suriname,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,118,Suriname,3,Both,22,All ages,294,All causes,3,Rate,2021,97204.52611457511,97635.16595588996,96770.47590908605
+5,Prevalence,146,Lebanon,3,Both,22,All ages,294,All causes,1,Number,2021,5304545.166755251,5336849.335633645,5272938.150888288
+5,Prevalence,146,Lebanon,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,146,Lebanon,3,Both,22,All ages,294,All causes,3,Rate,2021,95742.56356482253,96325.62655043589,95172.0836027135
+5,Prevalence,147,Libya,3,Both,22,All ages,294,All causes,1,Number,2021,6666575.84987328,6695699.568467731,6635373.128345824
+5,Prevalence,147,Libya,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,147,Libya,3,Both,22,All ages,294,All causes,3,Rate,2021,97030.938051066,97454.8290857429,96576.78746345769
+5,Prevalence,116,Saint Lucia,3,Both,22,All ages,294,All causes,1,Number,2021,173347.91529630765,173913.30097097464,172792.58195656305
+5,Prevalence,116,Saint Lucia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,116,Saint Lucia,3,Both,22,All ages,294,All causes,3,Rate,2021,97653.97703317124,97972.48192891476,97341.13502920204
+5,Prevalence,145,Kuwait,3,Both,22,All ages,294,All causes,1,Number,2021,4446387.189939498,4472701.254342711,4419007.944630975
+5,Prevalence,145,Kuwait,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,145,Kuwait,3,Both,22,All ages,294,All causes,3,Rate,2021,95619.54681861991,96185.43071619948,95030.75620799548
+5,Prevalence,144,Jordan,3,Both,22,All ages,294,All causes,1,Number,2021,11674246.49339262,11758689.32610517,11579861.431188015
+5,Prevalence,144,Jordan,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,144,Jordan,3,Both,22,All ages,294,All causes,3,Rate,2021,94723.31567940373,95408.47382681996,93957.48757669172
+5,Prevalence,143,Iraq,3,Both,22,All ages,294,All causes,1,Number,2021,39274515.68326499,39574942.61052376,38985555.83059486
+5,Prevalence,143,Iraq,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,143,Iraq,3,Both,22,All ages,294,All causes,3,Rate,2021,95270.22591176975,95998.98706214895,94569.28103786401
+5,Prevalence,137,North Africa and Middle East,3,Both,22,All ages,294,All causes,1,Number,2021,596834798.090764,599747929.3377218,593766170.5695679
+5,Prevalence,137,North Africa and Middle East,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,137,North Africa and Middle East,3,Both,22,All ages,294,All causes,3,Rate,2021,95800.1182761142,96267.71553905042,95307.56174218487
+5,Prevalence,142,Iran (Islamic Republic of),3,Both,22,All ages,294,All causes,1,Number,2021,82458072.8522643,82813743.3861531,82099366.07877377
+5,Prevalence,142,Iran (Islamic Republic of),3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,142,Iran (Islamic Republic of),3,Both,22,All ages,294,All causes,3,Rate,2021,96605.03047293841,97021.7217873986,96184.78200501727
+5,Prevalence,140,Bahrain,3,Both,22,All ages,294,All causes,1,Number,2021,1484699.696078605,1490819.0734229465,1477854.0967481968
+5,Prevalence,140,Bahrain,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,140,Bahrain,3,Both,22,All ages,294,All causes,3,Rate,2021,97064.78631310468,97464.85109109756,96617.24352856302
+5,Prevalence,139,Algeria,3,Both,22,All ages,294,All causes,1,Number,2021,41825489.238610215,42159499.270626135,41453572.87454046
+5,Prevalence,139,Algeria,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,139,Algeria,3,Both,22,All ages,294,All causes,3,Rate,2021,94632.19127072411,95387.9051143986,93790.71251836399
+5,Prevalence,141,Egypt,3,Both,22,All ages,294,All causes,1,Number,2021,100001725.11417568,100765053.1648706,99181389.45222858
+5,Prevalence,141,Egypt,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,141,Egypt,3,Both,22,All ages,294,All causes,3,Rate,2021,94673.99782900602,95396.6585444268,93897.36665999817
+5,Prevalence,138,North Africa and Middle East,3,Both,22,All ages,294,All causes,1,Number,2021,596834798.090764,599747929.3377218,593766170.5695679
+5,Prevalence,138,North Africa and Middle East,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,138,North Africa and Middle East,3,Both,22,All ages,294,All causes,3,Rate,2021,95800.1182761142,96267.71553905042,95307.56174218487
+5,Prevalence,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,294,All causes,1,Number,2021,25715456.928705677,25851002.750626825,25579334.335636728
+5,Prevalence,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,294,All causes,3,Rate,2021,96569.94762419855,97078.9664979404,96058.76278623981
+5,Prevalence,134,Tropical Latin America,3,Both,22,All ages,294,All causes,1,Number,2021,221545548.13292724,222294965.9962212,220694161.86252075
+5,Prevalence,134,Tropical Latin America,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,134,Tropical Latin America,3,Both,22,All ages,294,All causes,3,Rate,2021,97372.0093912676,97701.38781406872,96997.81459197564
+5,Prevalence,132,Panama,3,Both,22,All ages,294,All causes,1,Number,2021,4100578.332934872,4127224.636674789,4071508.813245551
+5,Prevalence,132,Panama,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,132,Panama,3,Both,22,All ages,294,All causes,3,Rate,2021,95540.01110994784,96160.84747707771,94862.71585825812
+5,Prevalence,162,Bhutan,3,Both,22,All ages,294,All causes,1,Number,2021,728629.1852565149,733098.876195696,724234.9948065141
+5,Prevalence,162,Bhutan,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,162,Bhutan,3,Both,22,All ages,294,All causes,3,Rate,2021,96264.90869906724,96855.4345781836,95684.35778093924
+5,Prevalence,161,Bangladesh,3,Both,22,All ages,294,All causes,1,Number,2021,159574173.0900438,160444617.62832546,158729090.93260998
+5,Prevalence,161,Bangladesh,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,161,Bangladesh,3,Both,22,All ages,294,All causes,3,Rate,2021,96925.37489124392,97454.08302465436,96412.0718714815
+5,Prevalence,160,Afghanistan,3,Both,22,All ages,294,All causes,1,Number,2021,30000230.757370315,30212172.3381278,29778833.24299812
+5,Prevalence,160,Afghanistan,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,160,Afghanistan,3,Both,22,All ages,294,All causes,3,Rate,2021,96086.2297631346,96765.04678923431,95377.12680299388
+5,Prevalence,163,India,3,Both,22,All ages,294,All causes,1,Number,2021,1386875814.1019392,1390829220.2144947,1382673611.429276
+5,Prevalence,163,India,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,163,India,3,Both,22,All ages,294,All causes,3,Rate,2021,98047.41896219256,98326.91137348418,97750.33747744728
+5,Prevalence,156,United Arab Emirates,3,Both,22,All ages,294,All causes,1,Number,2021,9399844.505066236,9428786.237932952,9370030.746716838
+5,Prevalence,156,United Arab Emirates,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,156,United Arab Emirates,3,Both,22,All ages,294,All causes,3,Rate,2021,97598.35240887984,97898.853703569,97288.79689522748
+5,Prevalence,157,Yemen,3,Both,22,All ages,294,All causes,1,Number,2021,32613530.20495789,32790982.087592505,32429292.565178048
+5,Prevalence,157,Yemen,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,157,Yemen,3,Both,22,All ages,294,All causes,3,Rate,2021,96938.65636787517,97466.10454550106,96391.03858039844
+5,Prevalence,158,South Asia,3,Both,22,All ages,294,All causes,1,Number,2021,1803179525.85707,1808767536.3503497,1797373822.134943
+5,Prevalence,158,South Asia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,158,South Asia,3,Both,22,All ages,294,All causes,3,Rate,2021,97650.13769689872,97952.75315270656,97335.73319098935
+5,Prevalence,159,South Asia,3,Both,22,All ages,294,All causes,1,Number,2021,1803179525.85707,1808767536.3503497,1797373822.134943
+5,Prevalence,159,South Asia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,159,South Asia,3,Both,22,All ages,294,All causes,3,Rate,2021,97650.13769689872,97952.75315270656,97335.73319098935
+5,Prevalence,152,Saudi Arabia,3,Both,22,All ages,294,All causes,1,Number,2021,36460359.28260873,36617283.11828313,36298108.46466097
+5,Prevalence,152,Saudi Arabia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,152,Saudi Arabia,3,Both,22,All ages,294,All causes,3,Rate,2021,96701.08610685312,97117.28346870978,96270.76038801804
+5,Prevalence,154,Tunisia,3,Both,22,All ages,294,All causes,1,Number,2021,11368157.14665348,11433300.954820365,11301512.819240663
+5,Prevalence,154,Tunisia,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,154,Tunisia,3,Both,22,All ages,294,All causes,3,Rate,2021,95993.94001696279,96544.02133031718,95431.18815792307
+5,Prevalence,155,Türkiye,3,Both,22,All ages,294,All causes,1,Number,2021,80406733.16281879,80823386.87242733,79935963.24964024
+5,Prevalence,155,Türkiye,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,155,Türkiye,3,Both,22,All ages,294,All causes,3,Rate,2021,96166.44751308764,96664.76532205852,95603.40672824747
+5,Prevalence,153,Syrian Arab Republic,3,Both,22,All ages,294,All causes,1,Number,2021,13550815.866819832,13625232.794602027,13468506.436769664
+5,Prevalence,153,Syrian Arab Republic,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,153,Syrian Arab Republic,3,Both,22,All ages,294,All causes,3,Rate,2021,96581.5717502726,97111.9681426868,95994.92263613474
+5,Prevalence,148,Morocco,3,Both,22,All ages,294,All causes,1,Number,2021,35596727.5634049,35818505.11098976,35394091.30123182
+5,Prevalence,148,Morocco,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,148,Morocco,3,Both,22,All ages,294,All causes,3,Rate,2021,95750.32660179705,96346.87785995324,95205.26278238039
+5,Prevalence,151,Qatar,3,Both,22,All ages,294,All causes,1,Number,2021,2865490.576359792,2879216.642018008,2850146.115960004
+5,Prevalence,151,Qatar,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,151,Qatar,3,Both,22,All ages,294,All causes,3,Rate,2021,96252.30866524807,96713.36951095217,95736.88566896
+5,Prevalence,150,Oman,3,Both,22,All ages,294,All causes,1,Number,2021,4539769.595992024,4569104.876863778,4510551.311385345
+5,Prevalence,150,Oman,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,150,Oman,3,Both,22,All ages,294,All causes,3,Rate,2021,96513.62391694338,97137.279854913,95892.45527117848
+5,Prevalence,149,Palestine,3,Both,22,All ages,294,All causes,1,Number,2021,4819406.201642823,4863266.838431003,4775564.318809786
+5,Prevalence,149,Palestine,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,149,Palestine,3,Both,22,All ages,294,All causes,3,Rate,2021,93843.31586796703,94697.36871598806,92989.6281963313
+5,Prevalence,174,Eastern Sub-Saharan Africa,3,Both,22,All ages,294,All causes,1,Number,2021,416143695.3618114,417256345.61204,414877994.41969466
+5,Prevalence,174,Eastern Sub-Saharan Africa,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,174,Eastern Sub-Saharan Africa,3,Both,22,All ages,294,All causes,3,Rate,2021,97663.89521061289,97925.020775305,97366.85049851805
+5,Prevalence,165,Pakistan,3,Both,22,All ages,294,All causes,1,Number,2021,225930065.8067829,227353122.6896208,224385011.7761227
+5,Prevalence,165,Pakistan,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,165,Pakistan,3,Both,22,All ages,294,All causes,3,Rate,2021,95914.50008679571,96518.63300299284,95258.5755004478
+5,Prevalence,166,Sub-Saharan Africa,3,Both,22,All ages,294,All causes,1,Number,2021,1108999868.1248653,1111594630.8710604,1106100219.3214085
+5,Prevalence,166,Sub-Saharan Africa,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,166,Sub-Saharan Africa,3,Both,22,All ages,294,All causes,3,Rate,2021,97868.07498531044,98097.0600756722,97612.18402023076
+5,Prevalence,167,Central Sub-Saharan Africa,3,Both,22,All ages,294,All causes,1,Number,2021,134972072.6969018,135308827.4305786,134607614.9268033
+5,Prevalence,167,Central Sub-Saharan Africa,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,167,Central Sub-Saharan Africa,3,Both,22,All ages,294,All causes,3,Rate,2021,98571.3133555719,98817.24835319,98305.14658237633
+5,Prevalence,192,Southern Sub-Saharan Africa,3,Both,22,All ages,294,All causes,1,Number,2021,77931351.21504426,78226962.85292408,77600282.92153227
+5,Prevalence,192,Southern Sub-Saharan Africa,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,192,Southern Sub-Saharan Africa,3,Both,22,All ages,294,All causes,3,Rate,2021,97045.64315223446,97413.75971988079,96633.37344344248
+5,Prevalence,186,Seychelles,3,Both,22,All ages,294,All causes,1,Number,2021,101390.30655534205,101944.6105519338,100824.97637238268
+5,Prevalence,186,Seychelles,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,186,Seychelles,3,Both,22,All ages,294,All causes,3,Rate,2021,96166.99994191746,96692.7479568814,95630.7937746925
+5,Prevalence,164,Nepal,3,Both,22,All ages,294,All causes,1,Number,2021,30070843.67304536,30268155.83969219,29871371.96256505
+5,Prevalence,164,Nepal,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,164,Nepal,3,Both,22,All ages,294,All causes,3,Rate,2021,96598.21877668932,97232.0554607641,95957.44487163232
+5,Prevalence,183,Mauritius,3,Both,22,All ages,294,All causes,1,Number,2021,1242825.2924721984,1248454.5804155022,1236790.2703621995
+5,Prevalence,183,Mauritius,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,183,Mauritius,3,Both,22,All ages,294,All causes,3,Rate,2021,97709.18989312784,98151.75665447951,97234.72487787044
+5,Prevalence,413,Tokelau,3,Both,22,All ages,294,All causes,1,Number,2021,1323.1823005935232,1330.5672660942696,1315.6435683915945
+5,Prevalence,413,Tokelau,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,413,Tokelau,3,Both,22,All ages,294,All causes,3,Rate,2021,96514.59890312736,97053.26767378599,95964.71419383152
+5,Prevalence,396,San Marino,3,Both,22,All ages,294,All causes,1,Number,2021,31464.18342113852,31602.66791263623,31331.286601689822
+5,Prevalence,396,San Marino,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,396,San Marino,3,Both,22,All ages,294,All causes,3,Rate,2021,96102.96958834378,96525.95119561219,95697.05474774807
+5,Prevalence,393,Saint Kitts and Nevis,3,Both,22,All ages,294,All causes,1,Number,2021,57111.23336412142,57310.70683278292,56879.54368138441
+5,Prevalence,393,Saint Kitts and Nevis,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,393,Saint Kitts and Nevis,3,Both,22,All ages,294,All causes,3,Rate,2021,97384.17669397556,97724.31222202544,96989.10714858535
+5,Prevalence,385,Puerto Rico,3,Both,22,All ages,294,All causes,1,Number,2021,3217160.137287975,3228091.0945569454,3205592.591064217
+5,Prevalence,385,Puerto Rico,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,385,Puerto Rico,3,Both,22,All ages,294,All causes,3,Rate,2021,97657.03562423153,97988.84530664382,97305.90225646249
+5,Prevalence,380,Palau,3,Both,22,All ages,294,All causes,1,Number,2021,17633.294566848406,17709.02464391171,17557.23848246738
+5,Prevalence,380,Palau,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,380,Palau,3,Both,22,All ages,294,All causes,3,Rate,2021,97438.49876730096,97856.96991531052,97018.22615992675
+5,Prevalence,367,Monaco,3,Both,22,All ages,294,All causes,1,Number,2021,36347.244026077584,36504.24406098285,36201.301841517015
+5,Prevalence,367,Monaco,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,367,Monaco,3,Both,22,All ages,294,All causes,3,Rate,2021,95995.59389785376,96410.24188552234,95610.15046033774
+5,Prevalence,376,Northern Mariana Islands,3,Both,22,All ages,294,All causes,1,Number,2021,46913.528137707006,47157.53628472917,46663.74725679952
+5,Prevalence,376,Northern Mariana Islands,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,376,Northern Mariana Islands,3,Both,22,All ages,294,All causes,3,Rate,2021,96744.5594463028,97247.75035140105,96229.46407316062
+5,Prevalence,298,American Samoa,3,Both,22,All ages,294,All causes,1,Number,2021,47855.62916554253,48159.39976519874,47533.34644562547
+5,Prevalence,298,American Samoa,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,298,American Samoa,3,Both,22,All ages,294,All causes,3,Rate,2021,96175.51628697368,96786.00443150688,95527.82431177952
+5,Prevalence,374,Niue,3,Both,22,All ages,294,All causes,1,Number,2021,1619.412405907702,1627.8230923454023,1610.1463376695715
+5,Prevalence,374,Niue,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,374,Niue,3,Both,22,All ages,294,All causes,3,Rate,2021,96873.78248577224,97376.91251339797,96319.48323764719
+5,Prevalence,369,Nauru,3,Both,22,All ages,294,All causes,1,Number,2021,10614.904783695476,10684.615450529996,10536.17370380709
+5,Prevalence,369,Nauru,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,369,Nauru,3,Both,22,All ages,294,All causes,3,Rate,2021,96285.25352347628,96917.58225050941,95571.10279469402
+5,Prevalence,522,Sudan,3,Both,22,All ages,294,All causes,1,Number,2021,41520805.35181983,41843535.23175468,41209205.0647288
+5,Prevalence,522,Sudan,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,522,Sudan,3,Both,22,All ages,294,All causes,3,Rate,2021,95628.0926511484,96371.38369760576,94910.43457897045
+5,Prevalence,351,Guam,3,Both,22,All ages,294,All causes,1,Number,2021,153435.37238163265,154336.14663694118,152509.37130001752
+5,Prevalence,351,Guam,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,351,Guam,3,Both,22,All ages,294,All causes,3,Rate,2021,96381.18468728097,96947.01047122412,95799.51254817488
+5,Prevalence,349,Greenland,3,Both,22,All ages,294,All causes,1,Number,2021,52621.64425299659,52994.96961491706,52258.95115618143
+5,Prevalence,349,Greenland,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,349,Greenland,3,Both,22,All ages,294,All causes,3,Rate,2021,93795.5204311245,94460.95472358249,93149.03763387485
+5,Prevalence,478,World Bank Regions,3,Both,22,All ages,294,All causes,1,Number,2021,7617563453.380504,7641517933.40886,7591915184.807022
+5,Prevalence,478,World Bank Regions,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,478,World Bank Regions,3,Both,22,All ages,294,All causes,3,Rate,2021,96633.77081393496,96937.6490483854,96308.40576482548
+5,Prevalence,320,Cook Islands,3,Both,22,All ages,294,All causes,1,Number,2021,17139.924671153807,17233.70708784866,17041.370990105053
+5,Prevalence,320,Cook Islands,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,320,Cook Islands,3,Both,22,All ages,294,All causes,3,Rate,2021,96576.476187404,97104.90180808195,96021.16644050617
+5,Prevalence,4743,European Union,3,Both,22,All ages,294,All causes,1,Number,2021,428092792.06579626,429603376.1711344,426578105.5949011
+5,Prevalence,4743,European Union,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,4743,European Union,3,Both,22,All ages,294,All causes,3,Rate,2021,95872.03154515901,96210.32915185252,95532.81520746289
+5,Prevalence,305,Bermuda,3,Both,22,All ages,294,All causes,1,Number,2021,62025.09955799234,62227.39570418182,61819.83591463807
+5,Prevalence,305,Bermuda,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,305,Bermuda,3,Both,22,All ages,294,All causes,3,Rate,2021,97614.52935125856,97932.9011594553,97291.48732340633
+5,Prevalence,416,Tuvalu,3,Both,22,All ages,294,All causes,1,Number,2021,11996.151975898723,12058.592281750629,11924.613667310152
+5,Prevalence,416,Tuvalu,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,416,Tuvalu,3,Both,22,All ages,294,All causes,3,Rate,2021,97000.61765280504,97505.5085750135,96422.1604831334
+5,Prevalence,479,WHO region,3,Both,22,All ages,294,All causes,1,Number,2021,7593262124.332254,7617164170.555159,7567681615.469094
+5,Prevalence,479,WHO region,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,479,WHO region,3,Both,22,All ages,294,All causes,3,Rate,2021,96634.38951520568,96938.57493737258,96308.84341696692
+5,Prevalence,422,United States Virgin Islands,3,Both,22,All ages,294,All causes,1,Number,2021,83802.71049972074,84116.79804821686,83513.88891699012
+5,Prevalence,422,United States Virgin Islands,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,422,United States Virgin Islands,3,Both,22,All ages,294,All causes,3,Rate,2021,97556.29469698688,97921.92985674516,97220.07211812635
+5,Prevalence,44634,High-middle SDI,3,Both,22,All ages,294,All causes,1,Number,2021,1253248141.525799,1258087798.8171575,1248144293.0033922
+5,Prevalence,44634,High-middle SDI,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,44634,High-middle SDI,3,Both,22,All ages,294,All causes,3,Rate,2021,96105.68075469526,96476.81121417397,95714.2907175094
+5,Prevalence,44591,World Bank Income Levels,3,Both,22,All ages,294,All causes,1,Number,2021,7619676516.120662,7643635286.658155,7594018322.244905
+5,Prevalence,44591,World Bank Income Levels,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,44591,World Bank Income Levels,3,Both,22,All ages,294,All causes,3,Rate,2021,96633.89625978276,96937.74503101787,96308.49514334988
+5,Prevalence,44590,Four World Regions,3,Both,22,All ages,294,All causes,1,Number,2021,7616085406.163001,7640042638.033945,7590435249.864646
+5,Prevalence,44590,Four World Regions,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,44590,Four World Regions,3,Both,22,All ages,294,All causes,3,Rate,2021,96633.45785771504,96937.42899681424,96308.00676761888
+5,Prevalence,44587,African Union,3,Both,22,All ages,294,All causes,1,Number,2021,1346955673.5012913,1350723780.4097943,1343196037.8274047
+5,Prevalence,44587,African Union,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,44587,African Union,3,Both,22,All ages,294,All causes,3,Rate,2021,97373.1379995086,97645.53923825524,97101.34915708171
+5,Prevalence,44584,OECD Countries,3,Both,22,All ages,294,All causes,1,Number,2021,1310542216.9422386,1315507285.851574,1305355763.9812517
+5,Prevalence,44584,OECD Countries,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,44584,OECD Countries,3,Both,22,All ages,294,All causes,3,Rate,2021,95467.62239231306,95829.30728705387,95089.81057790977
+5,Prevalence,94215,Organization of Islamic Cooperation,3,Both,22,All ages,294,All causes,1,Number,2021,1906991721.7520795,1913679031.3654337,1899638988.795618
+5,Prevalence,94215,Organization of Islamic Cooperation,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,94215,Organization of Islamic Cooperation,3,Both,22,All ages,294,All causes,3,Rate,2021,96637.78583338024,96976.66868580463,96265.18231096775
+5,Prevalence,44586,G20,3,Both,22,All ages,294,All causes,1,Number,2021,4752839044.682516,4768428553.193878,4736410674.240963
+5,Prevalence,44586,G20,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,44586,G20,3,Both,22,All ages,294,All causes,3,Rate,2021,96526.98441736844,96843.59691592016,96193.3351936716
+5,Prevalence,44534,Commonwealth,3,Both,22,All ages,294,All causes,1,Number,2021,2573625257.084028,2581140224.7460003,2565821838.306033
+5,Prevalence,44534,Commonwealth,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,44534,Commonwealth,3,Both,22,All ages,294,All causes,3,Rate,2021,97472.98020704837,97757.6006241646,97177.43504871536
+5,Prevalence,4745,League of Arab States,3,Both,22,All ages,294,All causes,1,Number,2021,431143426.7599704,433509277.5122798,428779046.4394557
+5,Prevalence,4745,League of Arab States,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,4745,League of Arab States,3,Both,22,All ages,294,All causes,3,Rate,2021,95759.7095212892,96285.18008804327,95234.56554683077
+5,Prevalence,94366,Sahel Region,3,Both,22,All ages,294,All causes,1,Number,2021,381577000.4805713,382472419.6895998,380493186.5853868
+5,Prevalence,94366,Sahel Region,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,94366,Sahel Region,3,Both,22,All ages,294,All causes,3,Rate,2021,97900.89424426109,98130.63120738238,97622.8210129098
+5,Prevalence,44639,Middle SDI,3,Both,22,All ages,294,All causes,1,Number,2021,2362602092.6210904,2370939354.0551367,2353708064.369151
+5,Prevalence,44639,Middle SDI,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,44639,Middle SDI,3,Both,22,All ages,294,All causes,3,Rate,2021,96490.0842769592,96830.58302658898,96126.84683707397
+5,Prevalence,95471,Health System Grouping Levels,3,Both,22,All ages,294,All causes,1,Number,2021,7619696598.64003,7643655430.759878,7594038272.720339
+5,Prevalence,95471,Health System Grouping Levels,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,95471,Health System Grouping Levels,3,Both,22,All ages,294,All causes,3,Rate,2021,96633.89616065875,96937.744911751,96308.4942275918
+5,Prevalence,44642,Nordic Region,3,Both,22,All ages,294,All causes,1,Number,2021,26218923.120310213,26340989.92029376,26109894.039891623
+5,Prevalence,44642,Nordic Region,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,44642,Nordic Region,3,Both,22,All ages,294,All causes,3,Rate,2021,95045.06487660695,95487.56386371182,94649.82835318953
+5,Prevalence,44635,High SDI,3,Both,22,All ages,294,All causes,1,Number,2021,1044483535.72835,1048212947.4197192,1040597851.6883056
+5,Prevalence,44635,High SDI,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,44635,High SDI,3,Both,22,All ages,294,All causes,3,Rate,2021,95469.64924175454,95810.5312316318,95114.48338257358
+5,Prevalence,44636,Low-middle SDI,3,Both,22,All ages,294,All causes,1,Number,2021,1865836648.4141588,1871925182.895534,1859547934.0449648
+5,Prevalence,44636,Low-middle SDI,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,44636,Low-middle SDI,3,Both,22,All ages,294,All causes,3,Rate,2021,97122.725474912,97439.65303847,96795.37791220412
+5,Prevalence,44637,Low SDI,3,Both,22,All ages,294,All causes,1,Number,2021,1093526180.3506362,1096058484.9158936,1090685079.574111
+5,Prevalence,44637,Low SDI,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,44637,Low SDI,3,Both,22,All ages,294,All causes,3,Rate,2021,97864.97388109489,98091.60212703081,97610.7099610495
+5,Prevalence,94217,Gulf Cooperation Council,3,Both,22,All ages,294,All causes,1,Number,2021,59196550.84604489,59435142.45692664,58956728.88247144
+5,Prevalence,94217,Gulf Cooperation Council,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,94217,Gulf Cooperation Council,3,Both,22,All ages,294,All causes,3,Rate,2021,96732.96670775936,97122.84878741296,96341.07411120468
+5,Prevalence,94216,Association of Southeast Asian Nations,3,Both,22,All ages,294,All causes,1,Number,2021,655063167.1459172,657792989.3371356,652190495.187679
+5,Prevalence,94216,Association of Southeast Asian Nations,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+5,Prevalence,94216,Association of Southeast Asian Nations,3,Both,22,All ages,294,All causes,3,Rate,2021,96624.5730915472,97027.23334947556,96200.84189199567
