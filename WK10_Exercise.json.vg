@@ -33,7 +33,7 @@
       },
       {
         "field": "Resting_BPM", "type": "quantitative", "format": ","
-      },
+      }
     ]     
   },
   "params": [
@@ -83,8 +83,7 @@
           },
           "value": 0.1
         }
-      },
-      
+      }    
 
     },
     {
