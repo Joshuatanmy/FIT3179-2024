@@ -20,21 +20,7 @@
       "y": {
         "field": "Calories_Burned",
         "type": "quantitative"
-      },
-      "tooltip": [
-      {
-        "field": "Calories_Burned", "type": "quantitative", "format": ","
-      },
-      {
-        "field": "Max_BPM", "type": "quantitative", "format": ","
-      },
-      {
-        "field": "Avg_BPM", "type": "quantitative", "format": ","
-      },
-      {
-        "field": "Resting_BPM", "type": "quantitative", "format": ","
-      }
-    ]     
+      }    
   },
   "params": [
     {
@@ -82,7 +68,21 @@
             "value": 1
           },
           "value": 0.1
-        }
+        },
+        "tooltip": [
+          {
+            "field": "Calories_Burned", "type": "quantitative", "format": ","
+          },
+          {
+            "field": "Max_BPM", "type": "quantitative", "format": ","
+          },
+          {
+            "field": "Avg_BPM", "type": "quantitative", "format": ","
+          },
+          {
+            "field": "Resting_BPM", "type": "quantitative", "format": ","
+          }
+        ] 
       }   
     },
     {
@@ -90,9 +90,21 @@
         "type": "text",
         "align": "right",
         "baseline": "middle",
-        "dx": -12,
+        "dx": 30,
+        "dy": -10,
         "fontSize": 11.5,
         "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": {"field": "Workout_Type", "type": "nominal"},
+        "color": {"value": "black"},
+        "opacity": {
+        "condition": {
+        "test": "datum['Calories_Burned'] == 1783 || datum['Calories_Burned'] == 303 ",
+        "value": 1
+        },
+        "value": 0
+        }
       }
     }
   ]
